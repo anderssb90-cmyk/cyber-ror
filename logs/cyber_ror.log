@@ -1,0 +1,963 @@
+2026-07-17 08:55:15 [INFO] ==================================================
+2026-07-17 08:55:15 [INFO] CYBER-ROR HEADLESS v3.80 starter
+2026-07-17 08:55:15 [INFO] Støtter: VirusTotal + AbuseIPDB + Blocklist.de + GeoIP
+2026-07-17 08:55:15 [INFO] ==================================================
+2026-07-17 08:55:15 [INFO] Lastet 609 blokkerte IP-er
+2026-07-17 08:55:15 [INFO] Honeypot startet på port 8080
+2026-07-17 08:55:15 [INFO] Honeypot startet på port 9090
+2026-07-17 08:55:15 [INFO] Honeypot startet på port 8443
+2026-07-17 08:55:15 [INFO] Honeypot startet på port 3000
+2026-07-17 08:55:15 [INFO] Honeypot startet på port 5000
+2026-07-17 08:55:15 [INFO] Honeypot startet på port 7000
+2026-07-17 08:55:15 [INFO] Honeypot startet på port 9000
+2026-07-17 08:55:15 [INFO] Honeypot startet på port 10000
+2026-07-17 08:55:15 [INFO] Henter blocklist (intervall: 300s)
+2026-07-17 08:55:15 [INFO] CYBER-ROR HEADLESS er aktiv og monitorerer
+2026-07-17 08:55:15 [INFO] Hentet 27111 IP-er fra Blocklist.de (all)
+2026-07-17 08:55:15 [ERROR] AbuseIPDB blacklist HTTP 429
+2026-07-17 08:56:06 [INFO] ==================================================
+2026-07-17 08:56:06 [INFO] CYBER-ROR HEADLESS v3.80 starter
+2026-07-17 08:56:06 [INFO] Støtter: VirusTotal + AbuseIPDB + Blocklist.de + GeoIP
+2026-07-17 08:56:06 [INFO] ==================================================
+2026-07-17 08:56:06 [INFO] Lastet 609 blokkerte IP-er
+2026-07-17 08:56:06 [INFO] Honeypot startet på port 8080
+2026-07-17 08:56:06 [INFO] Honeypot startet på port 9090
+2026-07-17 08:56:06 [INFO] Honeypot startet på port 8443
+2026-07-17 08:56:06 [INFO] Honeypot startet på port 3000
+2026-07-17 08:56:06 [INFO] Honeypot startet på port 5000
+2026-07-17 08:56:06 [INFO] Honeypot startet på port 7000
+2026-07-17 08:56:06 [INFO] Honeypot startet på port 9000
+2026-07-17 08:56:06 [INFO] Honeypot startet på port 10000
+2026-07-17 08:56:06 [INFO] Henter blocklist (intervall: 300s)
+2026-07-17 08:56:06 [INFO] CYBER-ROR HEADLESS er aktiv og monitorerer
+2026-07-17 08:56:07 [INFO] Hentet 27111 IP-er fra Blocklist.de (all)
+2026-07-17 08:56:07 [ERROR] AbuseIPDB blacklist HTTP 429
+2026-07-17 08:57:22 [INFO] ==================================================
+2026-07-17 08:57:22 [INFO] CYBER-ROR HEADLESS v3.80 starter
+2026-07-17 08:57:22 [INFO] Støtter: VirusTotal + AbuseIPDB + Blocklist.de + GeoIP
+2026-07-17 08:57:22 [INFO] ==================================================
+2026-07-17 08:57:22 [INFO] Lastet 609 blokkerte IP-er
+2026-07-17 08:57:22 [INFO] Honeypot startet på port 8080
+2026-07-17 08:57:22 [INFO] Honeypot startet på port 9090
+2026-07-17 08:57:22 [INFO] Honeypot startet på port 8443
+2026-07-17 08:57:22 [INFO] Honeypot startet på port 3000
+2026-07-17 08:57:22 [INFO] Honeypot startet på port 5000
+2026-07-17 08:57:22 [INFO] Honeypot startet på port 7000
+2026-07-17 08:57:22 [INFO] Honeypot startet på port 9000
+2026-07-17 08:57:22 [INFO] Honeypot startet på port 10000
+2026-07-17 08:57:22 [INFO] Henter blocklist (intervall: 300s)
+2026-07-17 08:57:22 [INFO] CYBER-ROR HEADLESS er aktiv og monitorerer
+2026-07-17 08:57:22 [INFO] Hentet 27111 IP-er fra Blocklist.de (all)
+2026-07-17 08:57:23 [ERROR] AbuseIPDB blacklist HTTP 429
+2026-07-17 08:57:44 [INFO] ==================================================
+2026-07-17 08:57:44 [INFO] CYBER-ROR HEADLESS v3.80 starter
+2026-07-17 08:57:44 [INFO] Støtter: VirusTotal + AbuseIPDB + Blocklist.de + GeoIP
+2026-07-17 08:57:44 [INFO] ==================================================
+2026-07-17 08:57:44 [INFO] Lastet 609 blokkerte IP-er
+2026-07-17 08:57:44 [INFO] Honeypot startet på port 8080
+2026-07-17 08:57:44 [INFO] Honeypot startet på port 9090
+2026-07-17 08:57:44 [INFO] Honeypot startet på port 8443
+2026-07-17 08:57:44 [INFO] Honeypot startet på port 3000
+2026-07-17 08:57:44 [INFO] Honeypot startet på port 5000
+2026-07-17 08:57:44 [INFO] Honeypot startet på port 7000
+2026-07-17 08:57:44 [INFO] Honeypot startet på port 9000
+2026-07-17 08:57:44 [INFO] Honeypot startet på port 10000
+2026-07-17 08:57:44 [INFO] Henter blocklist (intervall: 300s)
+2026-07-17 08:57:44 [INFO] CYBER-ROR HEADLESS er aktiv og monitorerer
+2026-07-17 08:57:44 [INFO] Hentet 27111 IP-er fra Blocklist.de (all)
+2026-07-17 08:57:44 [ERROR] AbuseIPDB blacklist HTTP 429
+2026-07-17 09:01:07 [INFO] Henter blocklist (intervall: 300s)
+2026-07-17 09:01:07 [INFO] Hentet 27111 IP-er fra Blocklist.de (all)
+2026-07-17 09:01:08 [ERROR] AbuseIPDB blacklist HTTP 429
+2026-07-17 09:06:08 [INFO] Henter blocklist (intervall: 300s)
+2026-07-17 09:06:08 [INFO] Hentet 27111 IP-er fra Blocklist.de (all)
+2026-07-17 09:06:08 [ERROR] AbuseIPDB blacklist HTTP 429
+2026-07-17 09:11:08 [INFO] Henter blocklist (intervall: 300s)
+2026-07-17 09:11:09 [INFO] Hentet 27111 IP-er fra Blocklist.de (all)
+2026-07-17 09:11:09 [ERROR] AbuseIPDB blacklist HTTP 429
+2026-07-17 09:16:09 [INFO] Henter blocklist (intervall: 300s)
+2026-07-17 09:16:09 [INFO] Hentet 27129 IP-er fra Blocklist.de (all)
+2026-07-17 09:16:10 [ERROR] AbuseIPDB blacklist HTTP 429
+2026-07-17 09:21:10 [INFO] Henter blocklist (intervall: 300s)
+2026-07-17 09:21:10 [INFO] Hentet 27129 IP-er fra Blocklist.de (all)
+2026-07-17 09:21:10 [ERROR] AbuseIPDB blacklist HTTP 429
+2026-07-17 09:26:10 [INFO] Henter blocklist (intervall: 300s)
+2026-07-17 09:26:11 [INFO] Hentet 27145 IP-er fra Blocklist.de (all)
+2026-07-17 09:26:11 [ERROR] AbuseIPDB blacklist HTTP 429
+2026-07-17 09:34:35 [INFO] ==================================================
+2026-07-17 09:34:35 [INFO] CYBER-ROR HEADLESS v3.81 starter
+2026-07-17 09:34:35 [INFO] Emulerte fellere + skannedetektor + bulk-blokkering + feeds
+2026-07-17 09:34:35 [INFO] ==================================================
+2026-07-17 09:34:35 [INFO] Konfigurasjon lagret
+2026-07-17 09:34:35 [INFO] Lastet 609 blokkerte IP-er
+2026-07-17 09:34:35 [INFO] Geo-cache lastet: 107 IP-er
+2026-07-17 09:34:35 [INFO] Emulerte honeypots: 8 tjenester våkner ({23: 'telnet', 21: 'ftp', 80: 'http', 7547: 'http', 2323: 'telnet', 2222: 'ssh', 2121: 'ftp', 8888: 'http'})
+2026-07-17 09:34:35 [INFO] Emulert ftp lytter på port 21
+2026-07-17 09:34:35 [INFO] Emulert telnet lytter på port 23
+2026-07-17 09:34:35 [INFO] Emulert http lytter på port 7547
+2026-07-17 09:34:35 [INFO] Emulert http lytter på port 80
+2026-07-17 09:34:35 [INFO] Emulert telnet lytter på port 2323
+2026-07-17 09:34:35 [INFO] Emulert ftp lytter på port 2121
+2026-07-17 09:34:35 [INFO] Emulert http lytter på port 8888
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 1433
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 3389
+2026-07-17 09:34:35 [INFO] Emulert ssh lytter på port 2222
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 5900
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 3306
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 5432
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 27017
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 6379
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 110
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 143
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 993
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 995
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 587
+2026-07-17 09:34:35 [INFO] Tarpit våkner på 16 porter
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 25
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 5555
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 9200
+2026-07-17 09:34:35 [INFO] Tarpit lytter på port 11211
+2026-07-17 09:34:35 [INFO] Honeypot startet på port 8080
+2026-07-17 09:34:35 [INFO] Honeypot startet på port 9090
+2026-07-17 09:34:35 [INFO] Honeypot startet på port 8443
+2026-07-17 09:34:35 [INFO] Honeypot startet på port 7000
+2026-07-17 09:34:35 [INFO] CYBER-ROR HEADLESS v3.81 er aktiv og overvåker
+2026-07-17 09:34:35 [INFO] Honeypot startet på port 5000
+2026-07-17 09:34:35 [INFO] Honeypot startet på port 10000
+2026-07-17 09:34:35 [INFO] Honeypot startet på port 9000
+2026-07-17 09:34:35 [INFO] Honeypot startet på port 3000
+2026-07-17 09:34:35 [INFO] Feed blocklist_de: 27145 IP-er hentet
+2026-07-17 09:34:36 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 09:34:38 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 09:34:59 [INFO] Bulk-blokkering oppdatert: 27150 IP-er i 55 regler
+2026-07-17 09:34:59 [INFO] Feed-oppdatering: 27150 IP-er aktive i bulk-brannmur
+2026-07-17 09:37:42 [INFO] ==================================================
+2026-07-17 09:37:42 [INFO] CYBER-ROR HEADLESS v3.81 starter
+2026-07-17 09:37:42 [INFO] Emulerte fellere + skannedetektor + bulk-blokkering + feeds
+2026-07-17 09:37:42 [INFO] ==================================================
+2026-07-17 09:37:42 [INFO] Lastet 609 blokkerte IP-er
+2026-07-17 09:37:42 [INFO] Geo-cache lastet: 107 IP-er
+2026-07-17 09:37:42 [INFO] Emulerte honeypots: 8 tjenester våkner ({23: 'telnet', 21: 'ftp', 80: 'http', 7547: 'http', 2323: 'telnet', 2222: 'ssh', 2121: 'ftp', 8888: 'http'})
+2026-07-17 09:37:42 [INFO] Emulert telnet lytter på port 23
+2026-07-17 09:37:42 [INFO] Emulert http lytter på port 80
+2026-07-17 09:37:42 [INFO] Emulert ftp lytter på port 21
+2026-07-17 09:37:42 [INFO] Emulert telnet lytter på port 2323
+2026-07-17 09:37:42 [INFO] Emulert http lytter på port 7547
+2026-07-17 09:37:42 [INFO] Emulert ssh lytter på port 2222
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 6379
+2026-07-17 09:37:42 [INFO] Emulert http lytter på port 8888
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 3389
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 1433
+2026-07-17 09:37:42 [INFO] Emulert ftp lytter på port 2121
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 27017
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 3306
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 110
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 5900
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 5432
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 143
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 995
+2026-07-17 09:37:42 [INFO] Tarpit våkner på 16 porter
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 993
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 25
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 587
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 5555
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 11211
+2026-07-17 09:37:42 [INFO] Tarpit lytter på port 9200
+2026-07-17 09:37:42 [INFO] Honeypot startet på port 8080
+2026-07-17 09:37:42 [INFO] Honeypot startet på port 9090
+2026-07-17 09:37:42 [INFO] Honeypot startet på port 8443
+2026-07-17 09:37:42 [INFO] Honeypot startet på port 5000
+2026-07-17 09:37:42 [INFO] Honeypot startet på port 3000
+2026-07-17 09:37:42 [INFO] Honeypot startet på port 7000
+2026-07-17 09:37:42 [INFO] Honeypot startet på port 9000
+2026-07-17 09:37:42 [INFO] CYBER-ROR HEADLESS v3.81 er aktiv og overvåker
+2026-07-17 09:37:42 [INFO] Honeypot startet på port 10000
+2026-07-17 09:37:42 [INFO] Feed blocklist_de: 27145 IP-er hentet
+2026-07-17 09:37:43 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 09:37:44 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 10:52:03 [INFO] ==================================================
+2026-07-17 10:52:03 [INFO] CYBER-ROR HEADLESS v3.81 starter
+2026-07-17 10:52:03 [INFO] Emulerte fellere + skannedetektor + bulk-blokkering + feeds
+2026-07-17 10:52:03 [INFO] ==================================================
+2026-07-17 10:52:03 [INFO] Lastet 609 blokkerte IP-er
+2026-07-17 10:52:03 [INFO] Geo-cache lastet: 298 IP-er
+2026-07-17 10:52:03 [INFO] Emulert telnet lytter på port 23
+2026-07-17 10:52:03 [INFO] Emulert ftp lytter på port 21
+2026-07-17 10:52:03 [INFO] Emulert http lytter på port 80
+2026-07-17 10:52:03 [INFO] Emulert http lytter på port 7547
+2026-07-17 10:52:03 [INFO] Emulert telnet lytter på port 2323
+2026-07-17 10:52:03 [INFO] Emulert ssh lytter på port 2222
+2026-07-17 10:52:03 [INFO] Emulerte honeypots: 8 tjenester våkner ({23: 'telnet', 21: 'ftp', 80: 'http', 7547: 'http', 2323: 'telnet', 2222: 'ssh', 2121: 'ftp', 8888: 'http'})
+2026-07-17 10:52:03 [INFO] Emulert ftp lytter på port 2121
+2026-07-17 10:52:03 [INFO] Emulert http lytter på port 8888
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 3389
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 1433
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 3306
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 5900
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 6379
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 27017
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 5432
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 110
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 143
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 993
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 995
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 25
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 587
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 5555
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 9200
+2026-07-17 10:52:03 [INFO] Tarpit våkner på 16 porter
+2026-07-17 10:52:03 [INFO] Tarpit lytter på port 11211
+2026-07-17 10:52:03 [INFO] Honeypot startet på port 8080
+2026-07-17 10:52:03 [INFO] Honeypot startet på port 9090
+2026-07-17 10:52:03 [INFO] Honeypot startet på port 8443
+2026-07-17 10:52:03 [INFO] Honeypot startet på port 3000
+2026-07-17 10:52:03 [INFO] Honeypot startet på port 5000
+2026-07-17 10:52:03 [INFO] Honeypot startet på port 7000
+2026-07-17 10:52:03 [INFO] Honeypot startet på port 9000
+2026-07-17 10:52:03 [INFO] Honeypot startet på port 10000
+2026-07-17 10:52:03 [INFO] CYBER-ROR HEADLESS v3.81 er aktiv og overvåker
+2026-07-17 10:52:04 [INFO] Feed blocklist_de: 29077 IP-er hentet
+2026-07-17 10:52:04 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 10:52:06 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 10:53:13 [INFO] Bulk-blokkering oppdatert: 29082 IP-er i 59 regler
+2026-07-17 10:53:13 [INFO] Feed-oppdatering: 29082 IP-er aktive i bulk-brannmur
+2026-07-17 10:53:14 [WARNING] EMULERT FELLE: 127.0.0.1 koblet til http på port 80
+2026-07-17 10:53:14 [WARNING] EMULERT FELLE: 127.0.0.1 koblet til http på port 80
+2026-07-17 10:58:14 [INFO] Feed blocklist_de: 29096 IP-er hentet
+2026-07-17 10:58:14 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 10:58:16 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 10:59:00 [INFO] Bulk-blokkering oppdatert: 29101 IP-er i 59 regler
+2026-07-17 10:59:00 [INFO] Feed-oppdatering: 29101 IP-er aktive i bulk-brannmur
+2026-07-17 11:04:00 [INFO] Feed blocklist_de: 29096 IP-er hentet
+2026-07-17 11:04:00 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 11:04:02 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 11:04:02 [INFO] Bulk-blokkering uendret (29101 IP-er)
+2026-07-17 11:04:02 [INFO] Feed-oppdatering: 29101 IP-er aktive i bulk-brannmur
+2026-07-17 11:09:03 [INFO] Feed blocklist_de: 29096 IP-er hentet
+2026-07-17 11:09:03 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 11:09:05 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 11:09:05 [INFO] Bulk-blokkering uendret (29101 IP-er)
+2026-07-17 11:09:05 [INFO] Feed-oppdatering: 29101 IP-er aktive i bulk-brannmur
+2026-07-17 11:14:06 [INFO] Feed blocklist_de: 29096 IP-er hentet
+2026-07-17 11:14:06 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 11:14:08 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 11:14:08 [INFO] Bulk-blokkering uendret (29101 IP-er)
+2026-07-17 11:14:08 [INFO] Feed-oppdatering: 29101 IP-er aktive i bulk-brannmur
+2026-07-17 11:19:08 [INFO] Feed blocklist_de: 29101 IP-er hentet
+2026-07-17 11:19:09 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 11:19:11 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 11:19:55 [INFO] Bulk-blokkering oppdatert: 29106 IP-er i 59 regler
+2026-07-17 11:19:55 [INFO] Feed-oppdatering: 29106 IP-er aktive i bulk-brannmur
+2026-07-17 11:24:56 [INFO] Feed blocklist_de: 29103 IP-er hentet
+2026-07-17 11:24:56 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 11:24:58 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 11:25:42 [INFO] Bulk-blokkering oppdatert: 29108 IP-er i 59 regler
+2026-07-17 11:25:42 [INFO] Feed-oppdatering: 29108 IP-er aktive i bulk-brannmur
+2026-07-17 11:30:43 [INFO] Feed blocklist_de: 29103 IP-er hentet
+2026-07-17 11:30:43 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 11:30:45 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 11:30:45 [INFO] Bulk-blokkering uendret (29108 IP-er)
+2026-07-17 11:30:45 [INFO] Feed-oppdatering: 29108 IP-er aktive i bulk-brannmur
+2026-07-17 11:35:46 [INFO] Feed blocklist_de: 29103 IP-er hentet
+2026-07-17 11:35:46 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 11:35:48 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 11:35:48 [INFO] Bulk-blokkering uendret (29108 IP-er)
+2026-07-17 11:35:48 [INFO] Feed-oppdatering: 29108 IP-er aktive i bulk-brannmur
+2026-07-17 11:40:49 [INFO] Feed blocklist_de: 29103 IP-er hentet
+2026-07-17 11:40:49 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 11:40:51 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 11:40:51 [INFO] Bulk-blokkering uendret (29108 IP-er)
+2026-07-17 11:40:51 [INFO] Feed-oppdatering: 29108 IP-er aktive i bulk-brannmur
+2026-07-17 11:45:52 [INFO] Feed blocklist_de: 29138 IP-er hentet
+2026-07-17 11:45:52 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 11:45:54 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 11:46:40 [INFO] Bulk-blokkering oppdatert: 29143 IP-er i 59 regler
+2026-07-17 11:46:40 [INFO] Feed-oppdatering: 29143 IP-er aktive i bulk-brannmur
+2026-07-17 11:51:41 [INFO] Feed blocklist_de: 29138 IP-er hentet
+2026-07-17 11:51:41 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 11:51:43 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 11:51:43 [INFO] Bulk-blokkering uendret (29143 IP-er)
+2026-07-17 11:51:43 [INFO] Feed-oppdatering: 29143 IP-er aktive i bulk-brannmur
+2026-07-17 11:56:43 [INFO] Feed blocklist_de: 29142 IP-er hentet
+2026-07-17 11:56:44 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 11:56:46 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 11:57:31 [INFO] Bulk-blokkering oppdatert: 29147 IP-er i 59 regler
+2026-07-17 11:57:31 [INFO] Feed-oppdatering: 29147 IP-er aktive i bulk-brannmur
+2026-07-17 12:00:35 [INFO] Eksportert 609 IP-er til C:\cyber\data\blocked_ips_20260717_115203.csv
+2026-07-17 12:02:31 [INFO] Feed blocklist_de: 29142 IP-er hentet
+2026-07-17 12:02:32 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 12:02:34 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 12:02:34 [INFO] Bulk-blokkering uendret (29147 IP-er)
+2026-07-17 12:02:34 [INFO] Feed-oppdatering: 29147 IP-er aktive i bulk-brannmur
+2026-07-17 12:07:34 [INFO] Feed blocklist_de: 29142 IP-er hentet
+2026-07-17 12:07:35 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 12:07:36 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 12:07:36 [INFO] Bulk-blokkering uendret (29147 IP-er)
+2026-07-17 12:07:36 [INFO] Feed-oppdatering: 29147 IP-er aktive i bulk-brannmur
+2026-07-17 12:12:37 [INFO] Feed blocklist_de: 29142 IP-er hentet
+2026-07-17 12:12:37 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 12:12:39 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 12:12:39 [INFO] Bulk-blokkering uendret (29147 IP-er)
+2026-07-17 12:12:39 [INFO] Feed-oppdatering: 29147 IP-er aktive i bulk-brannmur
+2026-07-17 12:17:40 [INFO] Feed blocklist_de: 29182 IP-er hentet
+2026-07-17 12:17:40 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 12:17:42 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 12:18:27 [INFO] Bulk-blokkering oppdatert: 29187 IP-er i 59 regler
+2026-07-17 12:18:27 [INFO] Feed-oppdatering: 29187 IP-er aktive i bulk-brannmur
+2026-07-17 12:23:28 [INFO] Feed blocklist_de: 29182 IP-er hentet
+2026-07-17 12:23:28 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 12:23:30 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 12:23:30 [INFO] Bulk-blokkering uendret (29187 IP-er)
+2026-07-17 12:23:30 [INFO] Feed-oppdatering: 29187 IP-er aktive i bulk-brannmur
+2026-07-17 12:28:31 [INFO] Feed blocklist_de: 29199 IP-er hentet
+2026-07-17 12:28:31 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 12:28:33 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 12:29:18 [INFO] Bulk-blokkering oppdatert: 29204 IP-er i 59 regler
+2026-07-17 12:29:18 [INFO] Feed-oppdatering: 29204 IP-er aktive i bulk-brannmur
+2026-07-17 12:34:19 [INFO] Feed blocklist_de: 29199 IP-er hentet
+2026-07-17 12:34:19 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 12:34:21 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 12:34:21 [INFO] Bulk-blokkering uendret (29204 IP-er)
+2026-07-17 12:34:21 [INFO] Feed-oppdatering: 29204 IP-er aktive i bulk-brannmur
+2026-07-17 12:39:21 [INFO] Feed blocklist_de: 29199 IP-er hentet
+2026-07-17 12:39:22 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 12:39:24 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 12:39:24 [INFO] Bulk-blokkering uendret (29204 IP-er)
+2026-07-17 12:39:24 [INFO] Feed-oppdatering: 29204 IP-er aktive i bulk-brannmur
+2026-07-17 12:44:24 [INFO] Feed blocklist_de: 29225 IP-er hentet
+2026-07-17 12:44:25 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 12:44:26 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 12:45:12 [INFO] Bulk-blokkering oppdatert: 29230 IP-er i 59 regler
+2026-07-17 12:45:12 [INFO] Feed-oppdatering: 29230 IP-er aktive i bulk-brannmur
+2026-07-17 12:50:12 [INFO] Feed blocklist_de: 29225 IP-er hentet
+2026-07-17 12:50:12 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 12:50:14 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 12:50:14 [INFO] Bulk-blokkering uendret (29230 IP-er)
+2026-07-17 12:50:14 [INFO] Feed-oppdatering: 29230 IP-er aktive i bulk-brannmur
+2026-07-17 12:55:15 [INFO] Feed blocklist_de: 29228 IP-er hentet
+2026-07-17 12:55:15 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 12:55:17 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 12:56:03 [INFO] Bulk-blokkering oppdatert: 29233 IP-er i 59 regler
+2026-07-17 12:56:03 [INFO] Feed-oppdatering: 29233 IP-er aktive i bulk-brannmur
+2026-07-17 13:00:35 [INFO] Eksportert 609 IP-er til C:\cyber\data\blocked_ips_20260717_130035.csv
+2026-07-17 13:01:03 [INFO] Feed blocklist_de: 29228 IP-er hentet
+2026-07-17 13:01:04 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 13:01:05 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 13:01:05 [INFO] Bulk-blokkering uendret (29233 IP-er)
+2026-07-17 13:01:05 [INFO] Feed-oppdatering: 29233 IP-er aktive i bulk-brannmur
+2026-07-17 13:06:06 [INFO] Feed blocklist_de: 29228 IP-er hentet
+2026-07-17 13:06:06 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 13:06:08 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 13:06:08 [INFO] Bulk-blokkering uendret (29233 IP-er)
+2026-07-17 13:06:08 [INFO] Feed-oppdatering: 29233 IP-er aktive i bulk-brannmur
+2026-07-17 13:11:09 [INFO] Feed blocklist_de: 29228 IP-er hentet
+2026-07-17 13:11:09 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 13:11:11 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 13:11:11 [INFO] Bulk-blokkering uendret (29233 IP-er)
+2026-07-17 13:11:11 [INFO] Feed-oppdatering: 29233 IP-er aktive i bulk-brannmur
+2026-07-17 13:16:11 [INFO] Feed blocklist_de: 29238 IP-er hentet
+2026-07-17 13:16:12 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 13:16:14 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 13:17:01 [INFO] Bulk-blokkering oppdatert: 29243 IP-er i 59 regler
+2026-07-17 13:17:01 [INFO] Feed-oppdatering: 29243 IP-er aktive i bulk-brannmur
+2026-07-17 13:22:02 [INFO] Feed blocklist_de: 29238 IP-er hentet
+2026-07-17 13:22:02 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 13:22:04 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 13:22:04 [INFO] Bulk-blokkering uendret (29243 IP-er)
+2026-07-17 13:22:04 [INFO] Feed-oppdatering: 29243 IP-er aktive i bulk-brannmur
+2026-07-17 13:27:04 [INFO] Feed blocklist_de: 29238 IP-er hentet
+2026-07-17 13:27:04 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 13:27:06 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 13:27:06 [INFO] Bulk-blokkering uendret (29243 IP-er)
+2026-07-17 13:27:06 [INFO] Feed-oppdatering: 29243 IP-er aktive i bulk-brannmur
+2026-07-17 13:32:06 [INFO] Feed blocklist_de: 29238 IP-er hentet
+2026-07-17 13:32:07 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 13:32:09 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 13:32:09 [INFO] Bulk-blokkering uendret (29243 IP-er)
+2026-07-17 13:32:09 [INFO] Feed-oppdatering: 29243 IP-er aktive i bulk-brannmur
+2026-07-17 13:37:09 [INFO] Feed blocklist_de: 29245 IP-er hentet
+2026-07-17 13:37:10 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 13:37:11 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 13:37:46 [INFO] Bulk-blokkering oppdatert: 29250 IP-er i 59 regler
+2026-07-17 13:37:46 [INFO] Feed-oppdatering: 29250 IP-er aktive i bulk-brannmur
+2026-07-17 13:42:46 [INFO] Feed blocklist_de: 29245 IP-er hentet
+2026-07-17 13:42:47 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 13:42:49 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 13:42:49 [INFO] Bulk-blokkering uendret (29250 IP-er)
+2026-07-17 13:42:49 [INFO] Feed-oppdatering: 29250 IP-er aktive i bulk-brannmur
+2026-07-17 13:47:49 [INFO] Feed blocklist_de: 29292 IP-er hentet
+2026-07-17 13:47:50 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 13:47:52 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 13:48:28 [INFO] Bulk-blokkering oppdatert: 29297 IP-er i 59 regler
+2026-07-17 13:48:28 [INFO] Feed-oppdatering: 29297 IP-er aktive i bulk-brannmur
+2026-07-17 13:53:28 [INFO] Feed blocklist_de: 29292 IP-er hentet
+2026-07-17 13:53:29 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 13:53:30 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 13:53:31 [INFO] Bulk-blokkering uendret (29297 IP-er)
+2026-07-17 13:53:31 [INFO] Feed-oppdatering: 29297 IP-er aktive i bulk-brannmur
+2026-07-17 13:58:31 [INFO] Feed blocklist_de: 29292 IP-er hentet
+2026-07-17 13:58:31 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 13:58:33 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 13:58:33 [INFO] Bulk-blokkering uendret (29297 IP-er)
+2026-07-17 13:58:33 [INFO] Feed-oppdatering: 29297 IP-er aktive i bulk-brannmur
+2026-07-17 14:00:35 [INFO] Eksportert 609 IP-er til C:\cyber\data\blocked_ips_20260717_140035.csv
+2026-07-17 14:03:34 [INFO] Feed blocklist_de: 29292 IP-er hentet
+2026-07-17 14:03:34 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 14:03:36 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 14:03:36 [INFO] Bulk-blokkering uendret (29297 IP-er)
+2026-07-17 14:03:36 [INFO] Feed-oppdatering: 29297 IP-er aktive i bulk-brannmur
+2026-07-17 14:08:36 [INFO] Feed blocklist_de: 29280 IP-er hentet
+2026-07-17 14:08:37 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 14:08:39 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 14:09:16 [INFO] Bulk-blokkering oppdatert: 29285 IP-er i 59 regler
+2026-07-17 14:09:16 [INFO] Feed-oppdatering: 29285 IP-er aktive i bulk-brannmur
+2026-07-17 14:14:17 [INFO] Feed blocklist_de: 29280 IP-er hentet
+2026-07-17 14:14:17 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 14:14:19 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 14:14:19 [INFO] Bulk-blokkering uendret (29285 IP-er)
+2026-07-17 14:14:19 [INFO] Feed-oppdatering: 29285 IP-er aktive i bulk-brannmur
+2026-07-17 15:51:27 [INFO] ==================================================
+2026-07-17 15:51:27 [INFO] CYBER-ROR HEADLESS v3.81 starter
+2026-07-17 15:51:27 [INFO] Emulerte fellere + skannedetektor + bulk-blokkering + feeds
+2026-07-17 15:51:27 [INFO] ==================================================
+2026-07-17 15:51:27 [INFO] Lastet 609 blokkerte IP-er
+2026-07-17 15:51:27 [INFO] Geo-cache lastet: 608 IP-er
+2026-07-17 15:51:27 [INFO] Emulert telnet lytter på port 23
+2026-07-17 15:51:27 [INFO] Emulert telnet lytter på port 2323
+2026-07-17 15:51:27 [INFO] Emulert ftp lytter på port 21
+2026-07-17 15:51:27 [INFO] Emulert http lytter på port 7547
+2026-07-17 15:51:27 [INFO] Emulert http lytter på port 80
+2026-07-17 15:51:27 [INFO] Emulerte honeypots: 8 tjenester våkner ({23: 'telnet', 21: 'ftp', 80: 'http', 7547: 'http', 2323: 'telnet', 2222: 'ssh', 2121: 'ftp', 8888: 'http'})
+2026-07-17 15:51:27 [INFO] Emulert ssh lytter på port 2222
+2026-07-17 15:51:27 [INFO] Emulert http lytter på port 8888
+2026-07-17 15:51:27 [INFO] Emulert ftp lytter på port 2121
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 3389
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 5900
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 1433
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 3306
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 6379
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 27017
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 5432
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 110
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 143
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 993
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 995
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 25
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 587
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 5555
+2026-07-17 15:51:28 [INFO] Tarpit våkner på 16 porter
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 9200
+2026-07-17 15:51:28 [INFO] Tarpit lytter på port 11211
+2026-07-17 15:51:28 [INFO] Honeypot startet på port 9090
+2026-07-17 15:51:28 [INFO] Honeypot startet på port 8443
+2026-07-17 15:51:28 [INFO] Honeypot startet på port 8080
+2026-07-17 15:51:28 [INFO] Honeypot startet på port 3000
+2026-07-17 15:51:28 [INFO] Honeypot startet på port 5000
+2026-07-17 15:51:28 [INFO] Honeypot startet på port 7000
+2026-07-17 15:51:28 [INFO] Honeypot startet på port 9000
+2026-07-17 15:51:28 [INFO] CYBER-ROR HEADLESS v3.81 er aktiv og overvåker
+2026-07-17 15:51:28 [INFO] Honeypot startet på port 10000
+2026-07-17 15:51:28 [INFO] Feed blocklist_de: 29289 IP-er hentet
+2026-07-17 15:51:29 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 15:51:31 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 15:51:49 [WARNING] EMULERT FELLE: 127.0.0.1 koblet til http på port 80
+2026-07-17 15:51:49 [WARNING] EMULERT FELLE: 127.0.0.1 koblet til http på port 80
+2026-07-17 15:52:31 [INFO] Bulk-blokkering oppdatert: 29294 IP-er i 59 regler
+2026-07-17 15:52:31 [INFO] Feed-oppdatering: 29294 IP-er aktive i bulk-brannmur
+2026-07-17 15:57:32 [INFO] Feed blocklist_de: 29290 IP-er hentet
+2026-07-17 15:57:32 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 15:57:34 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 15:58:17 [INFO] Bulk-blokkering oppdatert: 29295 IP-er i 59 regler
+2026-07-17 15:58:17 [INFO] Feed-oppdatering: 29295 IP-er aktive i bulk-brannmur
+2026-07-17 16:03:17 [INFO] Feed blocklist_de: 29290 IP-er hentet
+2026-07-17 16:03:18 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 16:03:19 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 16:03:20 [INFO] Bulk-blokkering uendret (29295 IP-er)
+2026-07-17 16:03:20 [INFO] Feed-oppdatering: 29295 IP-er aktive i bulk-brannmur
+2026-07-17 16:08:20 [INFO] Feed blocklist_de: 29330 IP-er hentet
+2026-07-17 16:08:20 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 16:08:22 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 16:09:07 [INFO] Bulk-blokkering oppdatert: 29335 IP-er i 59 regler
+2026-07-17 16:09:07 [INFO] Feed-oppdatering: 29335 IP-er aktive i bulk-brannmur
+2026-07-17 16:14:07 [INFO] Feed blocklist_de: 29330 IP-er hentet
+2026-07-17 16:14:08 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 16:14:10 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 16:14:10 [INFO] Bulk-blokkering uendret (29335 IP-er)
+2026-07-17 16:14:10 [INFO] Feed-oppdatering: 29335 IP-er aktive i bulk-brannmur
+2026-07-17 16:19:10 [INFO] Feed blocklist_de: 29346 IP-er hentet
+2026-07-17 16:19:11 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 16:19:13 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 16:19:58 [INFO] Bulk-blokkering oppdatert: 29351 IP-er i 59 regler
+2026-07-17 16:19:58 [INFO] Feed-oppdatering: 29351 IP-er aktive i bulk-brannmur
+2026-07-17 16:24:58 [INFO] Feed blocklist_de: 29344 IP-er hentet
+2026-07-17 16:24:58 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 16:25:00 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 16:25:45 [INFO] Bulk-blokkering oppdatert: 29349 IP-er i 59 regler
+2026-07-17 16:25:45 [INFO] Feed-oppdatering: 29349 IP-er aktive i bulk-brannmur
+2026-07-17 16:30:46 [INFO] Feed blocklist_de: 29344 IP-er hentet
+2026-07-17 16:30:46 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 16:30:48 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 16:30:48 [INFO] Bulk-blokkering uendret (29349 IP-er)
+2026-07-17 16:30:48 [INFO] Feed-oppdatering: 29349 IP-er aktive i bulk-brannmur
+2026-07-17 16:35:49 [INFO] Feed blocklist_de: 29344 IP-er hentet
+2026-07-17 16:35:49 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 16:35:51 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 16:35:51 [INFO] Bulk-blokkering uendret (29349 IP-er)
+2026-07-17 16:35:51 [INFO] Feed-oppdatering: 29349 IP-er aktive i bulk-brannmur
+2026-07-17 16:40:52 [INFO] Feed blocklist_de: 29344 IP-er hentet
+2026-07-17 16:40:52 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 16:40:54 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 16:40:54 [INFO] Bulk-blokkering uendret (29349 IP-er)
+2026-07-17 16:40:54 [INFO] Feed-oppdatering: 29349 IP-er aktive i bulk-brannmur
+2026-07-17 16:45:55 [INFO] Feed blocklist_de: 29327 IP-er hentet
+2026-07-17 16:45:55 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 16:45:57 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 16:46:39 [INFO] Bulk-blokkering oppdatert: 29332 IP-er i 59 regler
+2026-07-17 16:46:39 [INFO] Feed-oppdatering: 29332 IP-er aktive i bulk-brannmur
+2026-07-17 16:51:29 [INFO] Eksportert 609 IP-er til C:\cyber\data\blocked_ips_20260717_165128.csv
+2026-07-17 16:51:39 [INFO] Feed blocklist_de: 29327 IP-er hentet
+2026-07-17 16:51:40 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 16:51:42 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 16:51:42 [INFO] Bulk-blokkering uendret (29332 IP-er)
+2026-07-17 16:51:42 [INFO] Feed-oppdatering: 29332 IP-er aktive i bulk-brannmur
+2026-07-17 16:56:42 [INFO] Feed blocklist_de: 29327 IP-er hentet
+2026-07-17 16:56:43 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 16:56:44 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 16:56:45 [INFO] Bulk-blokkering uendret (29332 IP-er)
+2026-07-17 16:56:45 [INFO] Feed-oppdatering: 29332 IP-er aktive i bulk-brannmur
+2026-07-17 17:01:45 [INFO] Feed blocklist_de: 29327 IP-er hentet
+2026-07-17 17:01:45 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 17:01:47 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 17:01:48 [INFO] Bulk-blokkering uendret (29332 IP-er)
+2026-07-17 17:01:48 [INFO] Feed-oppdatering: 29332 IP-er aktive i bulk-brannmur
+2026-07-17 17:06:48 [INFO] Feed blocklist_de: 29336 IP-er hentet
+2026-07-17 17:06:48 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-17 17:06:50 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-17 17:07:34 [INFO] Bulk-blokkering oppdatert: 29341 IP-er i 59 regler
+2026-07-17 17:07:34 [INFO] Feed-oppdatering: 29341 IP-er aktive i bulk-brannmur
+2026-07-19 00:24:36 [INFO] ==================================================
+2026-07-19 00:24:36 [INFO] CYBER-ROR HEADLESS v3.81 starter
+2026-07-19 00:24:36 [INFO] Emulerte fellere + skannedetektor + bulk-blokkering + feeds
+2026-07-19 00:24:36 [INFO] ==================================================
+2026-07-19 00:24:36 [INFO] Lastet 609 blokkerte IP-er
+2026-07-19 00:24:36 [INFO] Geo-cache lastet: 608 IP-er
+2026-07-19 00:24:36 [INFO] Emulerte honeypots: 8 tjenester våkner ({23: 'telnet', 21: 'ftp', 80: 'http', 7547: 'http', 2323: 'telnet', 2222: 'ssh', 2121: 'ftp', 8888: 'http'})
+2026-07-19 00:24:36 [INFO] Emulert telnet lytter på port 23
+2026-07-19 00:24:36 [INFO] Emulert ftp lytter på port 21
+2026-07-19 00:24:36 [INFO] Emulert http lytter på port 80
+2026-07-19 00:24:36 [INFO] Emulert http lytter på port 8888
+2026-07-19 00:24:36 [INFO] Emulert ssh lytter på port 2222
+2026-07-19 00:24:36 [INFO] Emulert ftp lytter på port 2121
+2026-07-19 00:24:36 [INFO] Emulert http lytter på port 7547
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 3389
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 1433
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 5900
+2026-07-19 00:24:36 [INFO] Emulert telnet lytter på port 2323
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 27017
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 3306
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 6379
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 5432
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 110
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 995
+2026-07-19 00:24:36 [INFO] Tarpit våkner på 16 porter
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 993
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 143
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 5555
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 587
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 25
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 9200
+2026-07-19 00:24:36 [INFO] Tarpit lytter på port 11211
+2026-07-19 00:24:36 [INFO] Honeypot startet på port 8443
+2026-07-19 00:24:36 [INFO] Honeypot startet på port 8080
+2026-07-19 00:24:36 [INFO] Honeypot startet på port 9090
+2026-07-19 00:24:36 [INFO] Honeypot startet på port 7000
+2026-07-19 00:24:36 [INFO] Honeypot startet på port 5000
+2026-07-19 00:24:36 [INFO] CYBER-ROR HEADLESS v3.81 er aktiv og overvåker
+2026-07-19 00:24:36 [INFO] Honeypot startet på port 10000
+2026-07-19 00:24:36 [INFO] Honeypot startet på port 3000
+2026-07-19 00:24:36 [INFO] Honeypot startet på port 9000
+2026-07-19 00:24:36 [INFO] Feed blocklist_de: 28762 IP-er hentet
+2026-07-19 00:24:36 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 00:24:38 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 00:25:29 [INFO] Bulk-blokkering oppdatert: 28767 IP-er i 58 regler
+2026-07-19 00:25:29 [INFO] Feed-oppdatering: 28767 IP-er aktive i bulk-brannmur
+2026-07-19 00:30:29 [INFO] Feed blocklist_de: 28762 IP-er hentet
+2026-07-19 00:30:29 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 00:30:31 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 00:30:31 [INFO] Bulk-blokkering uendret (28767 IP-er)
+2026-07-19 00:30:31 [INFO] Feed-oppdatering: 28767 IP-er aktive i bulk-brannmur
+2026-07-19 00:35:31 [INFO] Feed blocklist_de: 27230 IP-er hentet
+2026-07-19 00:35:32 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 00:35:33 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 00:36:16 [INFO] Bulk-blokkering oppdatert: 27235 IP-er i 55 regler
+2026-07-19 00:36:16 [INFO] Feed-oppdatering: 27235 IP-er aktive i bulk-brannmur
+2026-07-19 00:41:17 [INFO] Feed blocklist_de: 27230 IP-er hentet
+2026-07-19 00:41:17 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 00:41:19 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 00:41:19 [INFO] Bulk-blokkering uendret (27235 IP-er)
+2026-07-19 00:41:19 [INFO] Feed-oppdatering: 27235 IP-er aktive i bulk-brannmur
+2026-07-19 00:46:19 [INFO] Feed blocklist_de: 27213 IP-er hentet
+2026-07-19 00:46:19 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 00:46:21 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 00:47:03 [INFO] Bulk-blokkering oppdatert: 27218 IP-er i 55 regler
+2026-07-19 00:47:03 [INFO] Feed-oppdatering: 27218 IP-er aktive i bulk-brannmur
+2026-07-19 00:52:03 [INFO] Feed blocklist_de: 27213 IP-er hentet
+2026-07-19 00:52:03 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 00:52:05 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 00:52:05 [INFO] Bulk-blokkering uendret (27218 IP-er)
+2026-07-19 00:52:05 [INFO] Feed-oppdatering: 27218 IP-er aktive i bulk-brannmur
+2026-07-19 00:57:05 [INFO] Feed blocklist_de: 27214 IP-er hentet
+2026-07-19 00:57:06 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 00:57:07 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 00:57:50 [INFO] Bulk-blokkering oppdatert: 27219 IP-er i 55 regler
+2026-07-19 00:57:50 [INFO] Feed-oppdatering: 27219 IP-er aktive i bulk-brannmur
+2026-07-19 01:02:50 [INFO] Feed blocklist_de: 27214 IP-er hentet
+2026-07-19 01:02:51 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 01:02:52 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 01:02:53 [INFO] Bulk-blokkering uendret (27219 IP-er)
+2026-07-19 01:02:53 [INFO] Feed-oppdatering: 27219 IP-er aktive i bulk-brannmur
+2026-07-19 01:07:53 [INFO] Feed blocklist_de: 27219 IP-er hentet
+2026-07-19 01:07:53 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 01:07:55 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 01:08:37 [INFO] Bulk-blokkering oppdatert: 27224 IP-er i 55 regler
+2026-07-19 01:08:37 [INFO] Feed-oppdatering: 27224 IP-er aktive i bulk-brannmur
+2026-07-19 01:13:37 [INFO] Feed blocklist_de: 27219 IP-er hentet
+2026-07-19 01:13:37 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 01:13:39 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 01:13:39 [INFO] Bulk-blokkering uendret (27224 IP-er)
+2026-07-19 01:13:39 [INFO] Feed-oppdatering: 27224 IP-er aktive i bulk-brannmur
+2026-07-19 01:18:40 [INFO] Feed blocklist_de: 27220 IP-er hentet
+2026-07-19 01:18:40 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 01:18:42 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 01:19:24 [INFO] Bulk-blokkering oppdatert: 27225 IP-er i 55 regler
+2026-07-19 01:19:24 [INFO] Feed-oppdatering: 27225 IP-er aktive i bulk-brannmur
+2026-07-19 01:24:24 [INFO] Feed blocklist_de: 27220 IP-er hentet
+2026-07-19 01:24:24 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 01:24:26 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 01:24:26 [INFO] Bulk-blokkering uendret (27225 IP-er)
+2026-07-19 01:24:26 [INFO] Feed-oppdatering: 27225 IP-er aktive i bulk-brannmur
+2026-07-19 01:24:37 [INFO] Eksportert 609 IP-er til C:\cyber\data\blocked_ips_20260719_012436.csv
+2026-07-19 01:29:26 [INFO] Feed blocklist_de: 27259 IP-er hentet
+2026-07-19 01:29:27 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 01:29:28 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 01:30:11 [INFO] Bulk-blokkering oppdatert: 27264 IP-er i 55 regler
+2026-07-19 01:30:11 [INFO] Feed-oppdatering: 27264 IP-er aktive i bulk-brannmur
+2026-07-19 01:35:11 [INFO] Feed blocklist_de: 27259 IP-er hentet
+2026-07-19 01:35:12 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 01:35:13 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 01:35:13 [INFO] Bulk-blokkering uendret (27264 IP-er)
+2026-07-19 01:35:13 [INFO] Feed-oppdatering: 27264 IP-er aktive i bulk-brannmur
+2026-07-19 01:40:14 [INFO] Feed blocklist_de: 27259 IP-er hentet
+2026-07-19 01:40:14 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 01:40:16 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 01:40:16 [INFO] Bulk-blokkering uendret (27264 IP-er)
+2026-07-19 01:40:16 [INFO] Feed-oppdatering: 27264 IP-er aktive i bulk-brannmur
+2026-07-19 01:45:16 [INFO] Feed blocklist_de: 27275 IP-er hentet
+2026-07-19 01:45:16 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 01:45:18 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 01:46:01 [INFO] Bulk-blokkering oppdatert: 27280 IP-er i 55 regler
+2026-07-19 01:46:01 [INFO] Feed-oppdatering: 27280 IP-er aktive i bulk-brannmur
+2026-07-19 01:51:01 [INFO] Feed blocklist_de: 27275 IP-er hentet
+2026-07-19 01:51:01 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 01:51:03 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 01:51:03 [INFO] Bulk-blokkering uendret (27280 IP-er)
+2026-07-19 01:51:03 [INFO] Feed-oppdatering: 27280 IP-er aktive i bulk-brannmur
+2026-07-19 01:56:04 [INFO] Feed blocklist_de: 27290 IP-er hentet
+2026-07-19 01:56:04 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 01:56:06 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 01:56:49 [INFO] Bulk-blokkering oppdatert: 27295 IP-er i 55 regler
+2026-07-19 01:56:49 [INFO] Feed-oppdatering: 27295 IP-er aktive i bulk-brannmur
+2026-07-19 02:01:50 [INFO] Feed blocklist_de: 27290 IP-er hentet
+2026-07-19 02:01:50 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 02:01:52 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 02:01:52 [INFO] Bulk-blokkering uendret (27295 IP-er)
+2026-07-19 02:01:52 [INFO] Feed-oppdatering: 27295 IP-er aktive i bulk-brannmur
+2026-07-19 02:06:52 [INFO] Feed blocklist_de: 27290 IP-er hentet
+2026-07-19 02:06:52 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 02:06:55 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 02:06:55 [INFO] Bulk-blokkering uendret (27295 IP-er)
+2026-07-19 02:06:55 [INFO] Feed-oppdatering: 27295 IP-er aktive i bulk-brannmur
+2026-07-19 02:11:55 [INFO] Feed blocklist_de: 27290 IP-er hentet
+2026-07-19 02:11:55 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 02:11:57 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 02:11:57 [INFO] Bulk-blokkering uendret (27295 IP-er)
+2026-07-19 02:11:57 [INFO] Feed-oppdatering: 27295 IP-er aktive i bulk-brannmur
+2026-07-19 02:16:58 [INFO] Feed blocklist_de: 27278 IP-er hentet
+2026-07-19 02:16:58 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 02:17:01 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 02:17:44 [INFO] Bulk-blokkering oppdatert: 27283 IP-er i 55 regler
+2026-07-19 02:17:44 [INFO] Feed-oppdatering: 27283 IP-er aktive i bulk-brannmur
+2026-07-19 02:22:45 [INFO] Feed blocklist_de: 27278 IP-er hentet
+2026-07-19 02:22:45 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 02:22:48 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 02:22:48 [INFO] Bulk-blokkering uendret (27283 IP-er)
+2026-07-19 02:22:48 [INFO] Feed-oppdatering: 27283 IP-er aktive i bulk-brannmur
+2026-07-19 02:24:37 [INFO] Eksportert 609 IP-er til C:\cyber\data\blocked_ips_20260719_022437.csv
+2026-07-19 02:27:48 [INFO] Feed blocklist_de: 27278 IP-er hentet
+2026-07-19 02:27:48 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 02:27:51 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 02:27:51 [INFO] Bulk-blokkering uendret (27283 IP-er)
+2026-07-19 02:27:51 [INFO] Feed-oppdatering: 27283 IP-er aktive i bulk-brannmur
+2026-07-19 02:32:51 [INFO] Feed blocklist_de: 27278 IP-er hentet
+2026-07-19 02:32:51 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 02:32:54 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 02:32:54 [INFO] Bulk-blokkering uendret (27283 IP-er)
+2026-07-19 02:32:54 [INFO] Feed-oppdatering: 27283 IP-er aktive i bulk-brannmur
+2026-07-19 02:38:57 [INFO] ==================================================
+2026-07-19 02:38:57 [INFO] CYBER-ROR HEADLESS v3.81 starter
+2026-07-19 02:38:57 [INFO] Emulerte fellere + skannedetektor + bulk-blokkering + feeds
+2026-07-19 02:38:57 [INFO] ==================================================
+2026-07-19 02:38:57 [INFO] Lastet 609 blokkerte IP-er
+2026-07-19 02:38:57 [INFO] Geo-cache lastet: 608 IP-er
+2026-07-19 02:38:57 [INFO] Emulert telnet lytter på port 23
+2026-07-19 02:38:57 [INFO] Emulert http lytter på port 80
+2026-07-19 02:38:57 [INFO] Emulert ftp lytter på port 21
+2026-07-19 02:38:57 [INFO] Emulert http lytter på port 7547
+2026-07-19 02:38:57 [INFO] Emulert telnet lytter på port 2323
+2026-07-19 02:38:57 [INFO] Emulert ssh lytter på port 2222
+2026-07-19 02:38:57 [INFO] Emulert ftp lytter på port 2121
+2026-07-19 02:38:57 [INFO] Emulerte honeypots: 8 tjenester våkner ({23: 'telnet', 21: 'ftp', 80: 'http', 7547: 'http', 2323: 'telnet', 2222: 'ssh', 2121: 'ftp', 8888: 'http'})
+2026-07-19 02:38:57 [INFO] Emulert http lytter på port 8888
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 3389
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 3306
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 1433
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 5900
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 6379
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 27017
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 5432
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 110
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 143
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 993
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 995
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 25
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 587
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 5555
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 9200
+2026-07-19 02:38:57 [INFO] Tarpit våkner på 16 porter
+2026-07-19 02:38:57 [INFO] Honeypot startet på port 8080
+2026-07-19 02:38:57 [INFO] Honeypot startet på port 8443
+2026-07-19 02:38:57 [INFO] Honeypot startet på port 3000
+2026-07-19 02:38:57 [INFO] Tarpit lytter på port 11211
+2026-07-19 02:38:57 [INFO] Honeypot startet på port 5000
+2026-07-19 02:38:57 [INFO] Honeypot startet på port 9090
+2026-07-19 02:38:57 [INFO] Honeypot startet på port 7000
+2026-07-19 02:38:57 [INFO] Honeypot startet på port 10000
+2026-07-19 02:38:57 [INFO] Honeypot startet på port 9000
+2026-07-19 02:38:57 [INFO] CYBER-ROR HEADLESS v3.81 er aktiv og overvåker
+2026-07-19 02:38:57 [INFO] Feed blocklist_de: 27300 IP-er hentet
+2026-07-19 02:38:57 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 02:38:59 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 02:39:05 [WARNING] EMULERT FELLE: 127.0.0.1 koblet til http på port 80
+2026-07-19 02:39:05 [WARNING] EMULERT FELLE: 127.0.0.1 koblet til http på port 80
+2026-07-19 02:40:04 [INFO] Bulk-blokkering oppdatert: 27305 IP-er i 55 regler
+2026-07-19 02:40:04 [INFO] Feed-oppdatering: 27305 IP-er aktive i bulk-brannmur
+2026-07-19 02:45:05 [INFO] Feed blocklist_de: 27300 IP-er hentet
+2026-07-19 02:45:05 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 02:45:07 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 02:45:07 [INFO] Bulk-blokkering uendret (27305 IP-er)
+2026-07-19 02:45:07 [INFO] Feed-oppdatering: 27305 IP-er aktive i bulk-brannmur
+2026-07-19 02:50:08 [INFO] Feed blocklist_de: 27300 IP-er hentet
+2026-07-19 02:50:08 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 02:50:10 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 02:50:10 [INFO] Bulk-blokkering uendret (27305 IP-er)
+2026-07-19 02:50:10 [INFO] Feed-oppdatering: 27305 IP-er aktive i bulk-brannmur
+2026-07-19 02:55:11 [INFO] Feed blocklist_de: 27291 IP-er hentet
+2026-07-19 02:55:11 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 02:55:13 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 03:12:12 [INFO] ==================================================
+2026-07-19 03:12:12 [INFO] CYBER-ROR HEADLESS v3.81 starter
+2026-07-19 03:12:12 [INFO] Emulerte fellere + skannedetektor + bulk-blokkering + feeds
+2026-07-19 03:12:12 [INFO] ==================================================
+2026-07-19 03:12:12 [INFO] Lastet 609 blokkerte IP-er
+2026-07-19 03:12:12 [INFO] Geo-cache lastet: 608 IP-er
+2026-07-19 03:12:12 [INFO] Emulert telnet lytter på port 23
+2026-07-19 03:12:12 [INFO] Emulert http lytter på port 80
+2026-07-19 03:12:12 [INFO] Emulert telnet lytter på port 2323
+2026-07-19 03:12:12 [INFO] Emulert ftp lytter på port 21
+2026-07-19 03:12:12 [INFO] Emulert ssh lytter på port 2222
+2026-07-19 03:12:12 [INFO] Emulert ftp lytter på port 2121
+2026-07-19 03:12:12 [INFO] Emulerte honeypots: 8 tjenester våkner ({23: 'telnet', 21: 'ftp', 80: 'http', 7547: 'http', 2323: 'telnet', 2222: 'ssh', 2121: 'ftp', 8888: 'http'})
+2026-07-19 03:12:12 [INFO] Emulert http lytter på port 8888
+2026-07-19 03:12:12 [INFO] Emulert http lytter på port 7547
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 3389
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 3306
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 1433
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 5900
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 6379
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 27017
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 5432
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 110
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 143
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 993
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 995
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 25
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 587
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 5555
+2026-07-19 03:12:12 [INFO] Tarpit våkner på 16 porter
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 9200
+2026-07-19 03:12:12 [INFO] Tarpit lytter på port 11211
+2026-07-19 03:12:12 [INFO] Honeypot startet på port 8080
+2026-07-19 03:12:12 [INFO] Honeypot startet på port 9090
+2026-07-19 03:12:12 [INFO] Honeypot startet på port 5000
+2026-07-19 03:12:12 [INFO] Honeypot startet på port 8443
+2026-07-19 03:12:12 [INFO] Honeypot startet på port 3000
+2026-07-19 03:12:12 [INFO] Honeypot startet på port 7000
+2026-07-19 03:12:12 [INFO] Honeypot startet på port 9000
+2026-07-19 03:12:12 [INFO] CYBER-ROR HEADLESS v3.81 er aktiv og overvåker
+2026-07-19 03:12:12 [INFO] Honeypot startet på port 10000
+2026-07-19 03:12:13 [INFO] Feed blocklist_de: 27291 IP-er hentet
+2026-07-19 03:12:13 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 03:12:15 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 03:13:18 [INFO] Bulk-blokkering oppdatert: 27296 IP-er i 55 regler
+2026-07-19 03:13:18 [INFO] Feed-oppdatering: 27296 IP-er aktive i bulk-brannmur
+2026-07-19 03:13:32 [WARNING] EMULERT FELLE: 127.0.0.1 koblet til http på port 80
+2026-07-19 03:18:18 [INFO] Feed blocklist_de: 27290 IP-er hentet
+2026-07-19 03:18:18 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 03:18:20 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 03:19:14 [INFO] Bulk-blokkering oppdatert: 27295 IP-er i 55 regler
+2026-07-19 03:19:14 [INFO] Feed-oppdatering: 27295 IP-er aktive i bulk-brannmur
+2026-07-19 03:24:14 [INFO] Feed blocklist_de: 27290 IP-er hentet
+2026-07-19 03:24:14 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 03:24:16 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 03:24:16 [INFO] Bulk-blokkering uendret (27295 IP-er)
+2026-07-19 03:24:16 [INFO] Feed-oppdatering: 27295 IP-er aktive i bulk-brannmur
+2026-07-19 03:28:55 [INFO] ==================================================
+2026-07-19 03:28:55 [INFO] CYBER-ROR HEADLESS v3.81 starter
+2026-07-19 03:28:55 [INFO] Emulerte fellere + skannedetektor + bulk-blokkering + feeds
+2026-07-19 03:28:55 [INFO] ==================================================
+2026-07-19 03:28:55 [INFO] Lastet 609 blokkerte IP-er
+2026-07-19 03:28:55 [INFO] Geo-cache lastet: 608 IP-er
+2026-07-19 03:28:55 [INFO] Emulert telnet lytter på port 23
+2026-07-19 03:28:55 [INFO] Emulert ftp lytter på port 21
+2026-07-19 03:28:55 [INFO] Emulert http lytter på port 7547
+2026-07-19 03:28:55 [INFO] Emulert http lytter på port 80
+2026-07-19 03:28:55 [INFO] Emulert telnet lytter på port 2323
+2026-07-19 03:28:55 [INFO] Emulert ssh lytter på port 2222
+2026-07-19 03:28:55 [INFO] Emulerte honeypots: 8 tjenester våkner ({23: 'telnet', 21: 'ftp', 80: 'http', 7547: 'http', 2323: 'telnet', 2222: 'ssh', 2121: 'ftp', 8888: 'http'})
+2026-07-19 03:28:55 [INFO] Emulert ftp lytter på port 2121
+2026-07-19 03:28:55 [INFO] Emulert http lytter på port 8888
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 3306
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 3389
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 5900
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 1433
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 6379
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 27017
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 5432
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 110
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 143
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 993
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 995
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 25
+2026-07-19 03:28:55 [INFO] Tarpit våkner på 16 porter
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 5555
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 587
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 9200
+2026-07-19 03:28:55 [INFO] Tarpit lytter på port 11211
+2026-07-19 03:28:56 [INFO] Honeypot startet på port 8080
+2026-07-19 03:28:56 [INFO] Honeypot startet på port 9090
+2026-07-19 03:28:56 [INFO] Honeypot startet på port 8443
+2026-07-19 03:28:56 [INFO] Honeypot startet på port 3000
+2026-07-19 03:28:56 [INFO] Honeypot startet på port 5000
+2026-07-19 03:28:56 [INFO] Honeypot startet på port 7000
+2026-07-19 03:28:56 [INFO] Honeypot startet på port 9000
+2026-07-19 03:28:56 [INFO] CYBER-ROR HEADLESS v3.81 er aktiv og overvåker
+2026-07-19 03:28:56 [INFO] Honeypot startet på port 10000
+2026-07-19 03:28:56 [INFO] Feed blocklist_de: 27296 IP-er hentet
+2026-07-19 03:28:57 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 03:28:58 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 03:30:35 [INFO] ==================================================
+2026-07-19 03:30:35 [INFO] CYBER-ROR HEADLESS v3.81 starter
+2026-07-19 03:30:35 [INFO] Emulerte fellere + skannedetektor + bulk-blokkering + feeds
+2026-07-19 03:30:35 [INFO] ==================================================
+2026-07-19 03:30:35 [INFO] Lastet 609 blokkerte IP-er
+2026-07-19 03:30:35 [INFO] Geo-cache lastet: 608 IP-er
+2026-07-19 03:30:35 [INFO] Emulert telnet lytter på port 23
+2026-07-19 03:30:35 [INFO] Emulert http lytter på port 80
+2026-07-19 03:30:35 [INFO] Emulert ftp lytter på port 21
+2026-07-19 03:30:35 [INFO] Emulert telnet lytter på port 2323
+2026-07-19 03:30:35 [INFO] Emulert http lytter på port 7547
+2026-07-19 03:30:35 [INFO] Emulert ssh lytter på port 2222
+2026-07-19 03:30:35 [INFO] Emulerte honeypots: 8 tjenester våkner ({23: 'telnet', 21: 'ftp', 80: 'http', 7547: 'http', 2323: 'telnet', 2222: 'ssh', 2121: 'ftp', 8888: 'http'})
+2026-07-19 03:30:35 [INFO] Emulert ftp lytter på port 2121
+2026-07-19 03:30:35 [INFO] Emulert http lytter på port 8888
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 3389
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 3306
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 1433
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 5900
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 6379
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 5432
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 27017
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 110
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 143
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 993
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 995
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 25
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 587
+2026-07-19 03:30:35 [INFO] Tarpit våkner på 16 porter
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 5555
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 9200
+2026-07-19 03:30:35 [INFO] Tarpit lytter på port 11211
+2026-07-19 03:30:35 [INFO] Honeypot startet på port 9090
+2026-07-19 03:30:35 [INFO] Honeypot startet på port 8080
+2026-07-19 03:30:35 [INFO] Honeypot startet på port 7000
+2026-07-19 03:30:35 [INFO] Honeypot startet på port 3000
+2026-07-19 03:30:35 [INFO] Honeypot startet på port 5000
+2026-07-19 03:30:35 [INFO] Honeypot startet på port 8443
+2026-07-19 03:30:35 [INFO] CYBER-ROR HEADLESS v3.81 er aktiv og overvåker
+2026-07-19 03:30:35 [INFO] Honeypot startet på port 9000
+2026-07-19 03:30:35 [INFO] Honeypot startet på port 10000
+2026-07-19 03:30:35 [INFO] Feed blocklist_de: 27296 IP-er hentet
+2026-07-19 03:30:35 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 03:31:45 [INFO] ==================================================
+2026-07-19 03:31:45 [INFO] CYBER-ROR HEADLESS v3.81 starter
+2026-07-19 03:31:45 [INFO] Emulerte fellere + skannedetektor + bulk-blokkering + feeds
+2026-07-19 03:31:45 [INFO] ==================================================
+2026-07-19 03:31:45 [INFO] Lastet 609 blokkerte IP-er
+2026-07-19 03:31:45 [INFO] Geo-cache lastet: 608 IP-er
+2026-07-19 03:31:45 [INFO] Emulert telnet lytter på port 23
+2026-07-19 03:31:45 [INFO] Emulert ftp lytter på port 21
+2026-07-19 03:31:45 [INFO] Emulert http lytter på port 80
+2026-07-19 03:31:45 [INFO] Emulert http lytter på port 7547
+2026-07-19 03:31:45 [INFO] Emulert telnet lytter på port 2323
+2026-07-19 03:31:45 [INFO] Emulert ssh lytter på port 2222
+2026-07-19 03:31:45 [INFO] Emulerte honeypots: 8 tjenester våkner ({23: 'telnet', 21: 'ftp', 80: 'http', 7547: 'http', 2323: 'telnet', 2222: 'ssh', 2121: 'ftp', 8888: 'http'})
+2026-07-19 03:31:45 [INFO] Emulert ftp lytter på port 2121
+2026-07-19 03:31:45 [INFO] Emulert http lytter på port 8888
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 3389
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 1433
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 3306
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 5900
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 6379
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 27017
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 5432
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 110
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 143
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 993
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 995
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 25
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 587
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 5555
+2026-07-19 03:31:45 [INFO] Tarpit våkner på 16 porter
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 9200
+2026-07-19 03:31:45 [INFO] Tarpit lytter på port 11211
+2026-07-19 03:31:46 [INFO] Honeypot startet på port 9090
+2026-07-19 03:31:46 [INFO] Honeypot startet på port 8080
+2026-07-19 03:31:46 [INFO] Honeypot startet på port 8443
+2026-07-19 03:31:46 [INFO] Honeypot startet på port 3000
+2026-07-19 03:31:46 [INFO] Honeypot startet på port 5000
+2026-07-19 03:31:46 [INFO] Honeypot startet på port 7000
+2026-07-19 03:31:46 [INFO] Honeypot startet på port 9000
+2026-07-19 03:31:46 [INFO] Honeypot startet på port 10000
+2026-07-19 03:31:46 [INFO] CYBER-ROR HEADLESS v3.81 er aktiv og overvåker
+2026-07-19 03:31:46 [INFO] Feed blocklist_de: 27296 IP-er hentet
+2026-07-19 03:31:46 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 03:31:48 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 03:33:01 [INFO] Bulk-blokkering oppdatert: 27301 IP-er i 55 regler
+2026-07-19 03:33:01 [INFO] Feed-oppdatering: 27301 IP-er aktive i bulk-brannmur
+2026-07-19 03:33:22 [WARNING] EMULERT FELLE: 127.0.0.1 koblet til http på port 80
+2026-07-19 03:33:22 [WARNING] EMULERT FELLE: 127.0.0.1 koblet til http på port 80
+2026-07-19 03:38:02 [INFO] Feed blocklist_de: 27300 IP-er hentet
+2026-07-19 03:38:02 [INFO] Feed feodo: 5 IP-er hentet
+2026-07-19 03:38:04 [INFO] Feed dshield: 0 IP-er hentet
+2026-07-19 03:38:46 [INFO] Bulk-blokkering oppdatert: 27305 IP-er i 55 regler
+2026-07-19 03:38:46 [INFO] Feed-oppdatering: 27305 IP-er aktive i bulk-brannmur

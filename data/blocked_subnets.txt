@@ -1,0 +1,3 @@
+# Blocked subnets - applied automatically at startup
+# Format: CIDR notation, one per line
+204.76.203.0/24 # Pfcloud UG

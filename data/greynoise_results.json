@@ -1,0 +1,42 @@
+{
+  "1.164.166.102": {
+    "ip": "1.164.166.102",
+    "noise": true,
+    "riot": false,
+    "classification": "unknown",
+    "name": "unknown",
+    "last_seen": "2026-07-11"
+  },
+  "1.95.44.44": {
+    "ip": "1.95.44.44",
+    "noise": true,
+    "riot": false,
+    "classification": "malicious",
+    "name": "unknown",
+    "last_seen": "2026-07-12"
+  },
+  "101.230.162.189": {
+    "ip": "101.230.162.189",
+    "noise": true,
+    "riot": false,
+    "classification": "suspicious",
+    "name": "unknown",
+    "last_seen": "2026-07-13"
+  },
+  "101.42.8.68": {
+    "ip": "101.42.8.68",
+    "noise": true,
+    "riot": false,
+    "classification": "malicious",
+    "name": "unknown",
+    "last_seen": "2026-07-13"
+  },
+  "1.20.174.208": {
+    "ip": "1.20.174.208",
+    "noise": true,
+    "riot": false,
+    "classification": "unknown",
+    "name": "unknown",
+    "last_seen": "2026-07-16"
+  }
+}

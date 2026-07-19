@@ -1,0 +1,5379 @@
+{
+  "1.0.164.165": {
+    "ip": "1.0.164.165",
+    "vt": {
+      "as_owner": "TOT Public Company Limited",
+      "asn": 23969,
+      "country": "TH",
+      "detected_urls": [
+        {
+          "positives": 11,
+          "scan_date": "2026-06-30 00:42:50",
+          "total": 92,
+          "url": "https://1.0.164.165/"
+        },
+        {
+          "positives": 12,
+          "scan_date": "2026-05-10 05:17:07",
+          "total": 93,
+          "url": "http://1.0.164.165/"
+        }
+      ],
+      "resolutions": [],
+      "response_code": 1,
+      "undetected_urls": [],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "1.0.164.165",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TH",
+      "usageType": "Fixed Line ISP",
+      "isp": "TOT Public Company Limited",
+      "domain": "totidc.net",
+      "hostnames": [
+        "node-78l.pool-1-0.dynamic.nt-isp.net"
+      ],
+      "isTor": false,
+      "totalReports": 239,
+      "numDistinctUsers": 71,
+      "lastReportedAt": "2026-07-02T18:00:36+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.1.220.166": {
+    "ip": "1.1.220.166",
+    "vt": {
+      "as_owner": "TOT Public Company Limited",
+      "asn": 23969,
+      "country": "TH",
+      "detected_communicating_samples": [],
+      "detected_urls": [
+        {
+          "positives": 12,
+          "scan_date": "2026-06-20 02:30:02",
+          "total": 92,
+          "url": "https://1.1.220.166/"
+        },
+        {
+          "positives": 12,
+          "scan_date": "2026-06-20 01:12:08",
+          "total": 92,
+          "url": "http://1.1.220.166/"
+        }
+      ],
+      "resolutions": [
+        {
+          "hostname": "node-iau.pool-1-1.dynamic.nt-isp.net",
+          "last_resolved": "2026-05-10 03:17:15"
+        },
+        {
+          "hostname": "node-iau.pool-1-1.dynamic.totinternet.net",
+          "last_resolved": "2023-04-12 17:21:24"
+        },
+        {
+          "hostname": "tc-nan.direct.quickconnect.to",
+          "last_resolved": "2024-12-02 09:26:27"
+        },
+        {
+          "hostname": "tcom-nan.direct.quickconnect.to",
+          "last_resolved": "2022-06-15 02:23:56"
+        }
+      ],
+      "response_code": 1,
+      "undetected_communicating_samples": [
+        {
+          "date": "2024-06-07 05:03:40",
+          "positives": 0,
+          "sha256": "7faa0ba66ffea5c7d91188ad11084550a688f018260f9299505e66e6e534d284",
+          "total": 77
+        }
+      ],
+      "undetected_urls": [],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "1.1.220.166",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TH",
+      "usageType": "Fixed Line ISP",
+      "isp": "TOT Public Company Limited",
+      "domain": "totidc.net",
+      "hostnames": [
+        "node-iau.pool-1-1.dynamic.nt-isp.net"
+      ],
+      "isTor": false,
+      "totalReports": 1434,
+      "numDistinctUsers": 542,
+      "lastReportedAt": "2026-07-03T03:30:26+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.12.55.42": {
+    "ip": "1.12.55.42",
+    "vt": {
+      "as_owner": "Shenzhen Tencent Computer Systems Company Limited",
+      "asn": 45090,
+      "country": "CN",
+      "detected_urls": [
+        {
+          "positives": 8,
+          "scan_date": "2026-07-03 02:30:55",
+          "total": 92,
+          "url": "http://1.12.55.42/"
+        },
+        {
+          "positives": 7,
+          "scan_date": "2026-06-29 19:01:53",
+          "total": 92,
+          "url": "https://1.12.55.42/"
+        }
+      ],
+      "resolutions": [],
+      "response_code": 1,
+      "undetected_urls": [],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "1.12.55.42",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Tencent cloud computing (Beijing) Co., Ltd.",
+      "domain": "tencentcloud.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 191,
+      "numDistinctUsers": 61,
+      "lastReportedAt": "2026-07-03T01:11:46+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.14.203.20": {
+    "ip": "1.14.203.20",
+    "vt": {
+      "as_owner": "Shenzhen Tencent Computer Systems Company Limited",
+      "asn": 45090,
+      "country": "CN",
+      "detected_urls": [],
+      "resolutions": [
+        {
+          "hostname": "afang.jiuhuizhan.com",
+          "last_resolved": "2026-03-06 08:34:06"
+        }
+      ],
+      "response_code": 1,
+      "undetected_urls": [
+        [
+          "https://1.14.203.20/",
+          "4956c7fce9da7a309cf5f08c456d70acc3f55e3fe454d635c1ce8f3045bda8a5",
+          0,
+          92,
+          "2026-06-29 15:54:26"
+        ]
+      ],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "1.14.203.20",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Tencent cloud computing (Beijing) Co., Ltd.",
+      "domain": "tencentcloud.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 59,
+      "numDistinctUsers": 51,
+      "lastReportedAt": "2026-07-03T01:59:03+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.14.28.29": {
+    "ip": "1.14.28.29",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.14.28.29",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Tencent cloud computing (Beijing) Co., Ltd.",
+      "domain": "tencentcloud.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 176,
+      "numDistinctUsers": 117,
+      "lastReportedAt": "2026-07-03T02:20:09+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.15.135.116": {
+    "ip": "1.15.135.116",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.15.135.116",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Tencent cloud computing (Beijing) Co., Ltd.",
+      "domain": "tencentcloud.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 70,
+      "numDistinctUsers": 55,
+      "lastReportedAt": "2026-07-02T10:47:34+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.180.246.242": {
+    "ip": "1.180.246.242",
+    "vt": {
+      "as_owner": "Chinanet",
+      "asn": 4134,
+      "country": "CN",
+      "detected_urls": [
+        {
+          "positives": 3,
+          "scan_date": "2026-06-27 22:07:33",
+          "total": 92,
+          "url": "http://1.180.246.242/"
+        }
+      ],
+      "resolutions": [
+        {
+          "hostname": "jsznkjgc.cn",
+          "last_resolved": "2020-12-01 17:58:27"
+        }
+      ],
+      "response_code": 1,
+      "undetected_urls": [
+        [
+          "https://1.180.246.242/",
+          "c71e9d36050d3de03dc38c75b5a792c1840eef13a66926d31e7d041ab9a11021",
+          0,
+          92,
+          "2026-06-22 12:05:12"
+        ],
+        [
+          "https://1.180.246.242:1443/",
+          "589c4415e1a67689fbfb720f43e13b53cf8181ab3e6700da3a2d7c16f54fc385",
+          0,
+          98,
+          "2025-09-24 20:17:38"
+        ]
+      ],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "1.180.246.242",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "CHINANET NeiMengGu province network",
+      "domain": "chinatelecom.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 64,
+      "numDistinctUsers": 51,
+      "lastReportedAt": "2026-07-03T03:20:34+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.192.61.19": {
+    "ip": "1.192.61.19",
+    "vt": {
+      "as_owner": "Chinanet",
+      "asn": 4134,
+      "country": "CN",
+      "detected_urls": [
+        {
+          "positives": 15,
+          "scan_date": "2026-06-30 02:43:54",
+          "total": 92,
+          "url": "https://1.192.61.19/"
+        },
+        {
+          "positives": 14,
+          "scan_date": "2026-06-29 02:43:45",
+          "total": 92,
+          "url": "http://1.192.61.19/"
+        }
+      ],
+      "resolutions": [
+        {
+          "hostname": "1-192-61-19-yf172488.ksyungslb.com",
+          "last_resolved": "2024-04-21 11:54:58"
+        },
+        {
+          "hostname": "1-192-61-19-yf751995.nodeedge.cn",
+          "last_resolved": "2024-04-26 04:22:56"
+        },
+        {
+          "hostname": "1-192-61-19-yfc5aeb6.ksyungslb.com",
+          "last_resolved": "2024-04-21 09:57:38"
+        },
+        {
+          "hostname": "1-192-61-19-yfd20b29.ksyungslb.com",
+          "last_resolved": "2024-04-21 20:04:49"
+        },
+        {
+          "hostname": "snapk.f3322.net",
+          "last_resolved": "2019-04-21 18:03:29"
+        },
+        {
+          "hostname": "t57vf3ilto9viqvoi8gg8vjm636b8b2fdgp0nhojio4mlqac4ofvuqoa.saxydc.com",
+          "last_resolved": "2023-12-08 06:15:29"
+        },
+        {
+          "hostname": "zzgr2018.top",
+          "last_resolved": "2024-10-13 04:29:37"
+        }
+      ],
+      "response_code": 1,
+      "undetected_urls": [],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "1.192.61.19",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "CHINANET henan province network",
+      "domain": "hntele.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 637,
+      "numDistinctUsers": 351,
+      "lastReportedAt": "2026-07-03T03:03:12+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.20.140.252": {
+    "ip": "1.20.140.252",
+    "vt": {
+      "as_owner": "TOT Public Company Limited",
+      "asn": 23969,
+      "country": "TH",
+      "detected_urls": [
+        {
+          "positives": 10,
+          "scan_date": "2026-07-01 06:45:15",
+          "total": 92,
+          "url": "https://1.20.140.252/"
+        },
+        {
+          "positives": 4,
+          "scan_date": "2026-06-09 13:21:22",
+          "total": 92,
+          "url": "http://1.20.140.252/"
+        }
+      ],
+      "resolutions": [
+        {
+          "hostname": "rms.picc.ac.th",
+          "last_resolved": "2021-12-14 06:15:59"
+        },
+        {
+          "hostname": "www.rms.picc.ac.th",
+          "last_resolved": "2021-12-20 17:15:57"
+        }
+      ],
+      "response_code": 1,
+      "undetected_urls": [
+        [
+          "http://rms.picc.ac.th/",
+          "32285206af94b3f30424cb107b43b5b29b5a5fd87bf3cd2e402376cb49b00c86",
+          0,
+          95,
+          "2026-03-17 21:52:03"
+        ],
+        [
+          "https://rms.picc.ac.th/",
+          "1369846022f9193b3470d6850b542450e0ada1be478d2424c5442a1e61c39ac0",
+          0,
+          98,
+          "2025-12-27 22:56:35"
+        ],
+        [
+          "http://rms.picc.ac.th/?p=login",
+          "f7ef1832419ff1be9dfc81f535bbaf197848132c9f1b94e2629a9f67a1b72ee6",
+          0,
+          96,
+          "2025-01-19 17:01:35"
+        ],
+        [
+          "https://rms.picc.ac.th/pms_report.php",
+          "5ac4e75c131617df42ca7371dc20ed6d5c48ad4efa5b4216277509ada0fce1b8",
+          0,
+          96,
+          "2024-10-02 11:43:59"
+        ],
+        [
+          "https://rms.picc.ac.th/sms_report.php",
+          "9fdd7fb5ee9334ac52e578f68fe29429b0bbfc1c327d02b59e830b5c0ebebe29",
+          0,
+          96,
+          "2024-08-21 08:53:58"
+        ]
+      ],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "1.20.140.252",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TH",
+      "usageType": "Fixed Line ISP",
+      "isp": "TOT Mobile Co LTD",
+      "domain": "tot.co.th",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 729,
+      "numDistinctUsers": 289,
+      "lastReportedAt": "2026-07-03T03:01:11+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.20.228.110": {
+    "ip": "1.20.228.110",
+    "vt": {
+      "as_owner": "TOT Public Company Limited",
+      "asn": 23969,
+      "country": "TH",
+      "detected_urls": [
+        {
+          "positives": 1,
+          "scan_date": "2026-07-01 10:45:32",
+          "total": 92,
+          "url": "https://rms.sttc.ac.th/?p=login"
+        },
+        {
+          "positives": 13,
+          "scan_date": "2026-07-01 02:08:28",
+          "total": 92,
+          "url": "https://1.20.228.110/"
+        },
+        {
+          "positives": 11,
+          "scan_date": "2026-06-20 22:20:24",
+          "total": 92,
+          "url": "http://1.20.228.110/"
+        },
+        {
+          "positives": 1,
+          "scan_date": "2025-07-09 13:51:22",
+          "total": 97,
+          "url": "http://rms.sttc.ac.th/?p=login"
+        },
+        {
+          "positives": 1,
+          "scan_date": "2025-05-03 23:49:06",
+          "total": 97,
+          "url": "https://rms.sttc.ac.th/sms_home_grade_export.php"
+        },
+        {
+          "positives": 1,
+          "scan_date": "2025-03-19 23:13:01",
+          "total": 96,
+          "url": "http://rms.sttc.ac.th/"
+        }
+      ],
+      "resolutions": [
+        {
+          "hostname": "rms.sttc.ac.th",
+          "last_resolved": "2025-03-19 23:13:17"
+        }
+      ],
+      "response_code": 1,
+      "undetected_urls": [],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "1.20.228.110",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TH",
+      "usageType": "Fixed Line ISP",
+      "isp": "TOT Mobile Co LTD",
+      "domain": "tot.co.th",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 739,
+      "numDistinctUsers": 288,
+      "lastReportedAt": "2026-07-03T03:03:12+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.212.225.99": {
+    "ip": "1.212.225.99",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.212.225.99",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Commercial",
+      "isp": "LG Uplus",
+      "domain": "lguplus.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 3424,
+      "numDistinctUsers": 409,
+      "lastReportedAt": "2026-07-03T04:00:15+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.214.214.114": {
+    "ip": "1.214.214.114",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.214.214.114",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Commercial",
+      "isp": "LG DACOM Corporation",
+      "domain": "dacom.co.kr",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 3719,
+      "numDistinctUsers": 1046,
+      "lastReportedAt": "2026-07-03T03:35:08+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.220.198.126": {
+    "ip": "1.220.198.126",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.220.198.126",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Commercial",
+      "isp": "LG Uplus",
+      "domain": "lguplus.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 241,
+      "numDistinctUsers": 86,
+      "lastReportedAt": "2026-07-03T04:00:18+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.220.82.179": {
+    "ip": "1.220.82.179",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.220.82.179",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Commercial",
+      "isp": "LG Uplus",
+      "domain": "lguplus.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 152,
+      "numDistinctUsers": 111,
+      "lastReportedAt": "2026-07-02T02:32:35+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.222.42.237": {
+    "ip": "1.222.42.237",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.222.42.237",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Commercial",
+      "isp": "LG Uplus",
+      "domain": "lguplus.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 5641,
+      "numDistinctUsers": 1189,
+      "lastReportedAt": "2026-07-03T03:59:15+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.227.228.131": {
+    "ip": "1.227.228.131",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.227.228.131",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Fixed Line ISP",
+      "isp": "SK Broadband Co Ltd",
+      "domain": "skbroadband.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 2046,
+      "numDistinctUsers": 261,
+      "lastReportedAt": "2026-07-03T03:21:20+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.234.75.81": {
+    "ip": "1.234.75.81",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.234.75.81",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Fixed Line ISP",
+      "isp": "SK Broadband Co Ltd",
+      "domain": "skbroadband.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 455,
+      "numDistinctUsers": 157,
+      "lastReportedAt": "2026-07-03T00:28:13+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.235.192.214": {
+    "ip": "1.235.192.214",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.235.192.214",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Fixed Line ISP",
+      "isp": "SK Broadband Co Ltd",
+      "domain": "skbroadband.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 3678,
+      "numDistinctUsers": 1022,
+      "lastReportedAt": "2026-07-03T03:32:46+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.238.106.229": {
+    "ip": "1.238.106.229",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.238.106.229",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Fixed Line ISP",
+      "isp": "SK Broadband Co Ltd",
+      "domain": "skbroadband.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 4272,
+      "numDistinctUsers": 1076,
+      "lastReportedAt": "2026-07-03T03:47:42+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.241.64.237": {
+    "ip": "1.241.64.237",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.241.64.237",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Fixed Line ISP",
+      "isp": "SK Broadband Co Ltd",
+      "domain": "skbroadband.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1430,
+      "numDistinctUsers": 190,
+      "lastReportedAt": "2026-07-03T03:44:31+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.245.207.104": {
+    "ip": "1.245.207.104",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.245.207.104",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Fixed Line ISP",
+      "isp": "SK Broadband Co Ltd",
+      "domain": "skbroadband.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 459,
+      "numDistinctUsers": 245,
+      "lastReportedAt": "2026-07-03T03:30:31+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.247.245.61": {
+    "ip": "1.247.245.61",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.247.245.61",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Fixed Line ISP",
+      "isp": "SK Broadband Co Ltd",
+      "domain": "skbroadband.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1874,
+      "numDistinctUsers": 283,
+      "lastReportedAt": "2026-07-03T03:43:46+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.250.67.114": {
+    "ip": "1.250.67.114",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.250.67.114",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Fixed Line ISP",
+      "isp": "SK Broadband Co Ltd",
+      "domain": "skbroadband.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 2051,
+      "numDistinctUsers": 241,
+      "lastReportedAt": "2026-07-03T03:02:36+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.250.67.190": {
+    "ip": "1.250.67.190",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.250.67.190",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Fixed Line ISP",
+      "isp": "SK Broadband Co Ltd",
+      "domain": "skbroadband.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1901,
+      "numDistinctUsers": 234,
+      "lastReportedAt": "2026-07-03T02:03:56+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.27.191.135": {
+    "ip": "1.27.191.135",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.27.191.135",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 0,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "China unicom InnerMongolia province network",
+      "domain": "chinaunicom.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 0,
+      "numDistinctUsers": 0,
+      "lastReportedAt": null
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.82.133.130": {
+    "ip": "1.82.133.130",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.82.133.130",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "CHINANET SHAANXI PROVINCE NETWORK",
+      "domain": "xa.sn.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 117,
+      "numDistinctUsers": 56,
+      "lastReportedAt": "2026-07-03T04:00:10+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.83.125.204": {
+    "ip": "1.83.125.204",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.83.125.204",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 59,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "CHINANET SHAANXI PROVINCE NETWORK",
+      "domain": "xa.sn.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 27,
+      "numDistinctUsers": 19,
+      "lastReportedAt": "2026-07-02T17:40:52+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.85.42.195": {
+    "ip": "1.85.42.195",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.85.42.195",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "CHINANET SHAANXI PROVINCE NETWORK",
+      "domain": "xa.sn.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 463,
+      "numDistinctUsers": 105,
+      "lastReportedAt": "2026-07-02T22:00:49+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.86.233.5": {
+    "ip": "1.86.233.5",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.86.233.5",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "CHINANET SHAANXI PROVINCE NETWORK",
+      "domain": "xa.sn.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 557,
+      "numDistinctUsers": 317,
+      "lastReportedAt": "2026-07-03T03:54:57+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "1.94.250.30": {
+    "ip": "1.94.250.30",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "1.94.250.30",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 50,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Teletron Telecom Engineering Co., Ltd.",
+      "domain": "drpeng.com.cn",
+      "hostnames": [
+        "ecs-1-94-250-30.compute.hwclouds-dns.com"
+      ],
+      "isTor": false,
+      "totalReports": 7,
+      "numDistinctUsers": 7,
+      "lastReportedAt": "2026-07-03T02:51:15+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "100.10.11.74": {
+    "ip": "100.10.11.74",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "100.10.11.74",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 4,
+      "countryCode": "US",
+      "usageType": "Fixed Line ISP",
+      "isp": "Verizon Business",
+      "domain": "verizon.com",
+      "hostnames": [
+        "pool-100-10-11-74.prvdri.fios.verizon.net"
+      ],
+      "isTor": false,
+      "totalReports": 1,
+      "numDistinctUsers": 1,
+      "lastReportedAt": "2026-07-02T02:43:30+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "100.11.13.169": {
+    "ip": "100.11.13.169",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "100.11.13.169",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 4,
+      "countryCode": "US",
+      "usageType": "Fixed Line ISP",
+      "isp": "Verizon Business",
+      "domain": "verizon.com",
+      "hostnames": [
+        "pool-100-11-13-169.phlapa.fios.verizon.net"
+      ],
+      "isTor": false,
+      "totalReports": 1,
+      "numDistinctUsers": 1,
+      "lastReportedAt": "2026-07-02T02:40:42+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "100.31.3.194": {
+    "ip": "100.31.3.194",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "100.31.3.194",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 4,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Amazon Data Services Northern Virginia",
+      "domain": "amazon.com",
+      "hostnames": [
+        "ec2-100-31-3-194.compute-1.amazonaws.com"
+      ],
+      "isTor": false,
+      "totalReports": 2,
+      "numDistinctUsers": 1,
+      "lastReportedAt": "2026-07-03T02:21:31+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "100.42.183.202": {
+    "ip": "100.42.183.202",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "100.42.183.202",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "DE",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Contabo GmbH",
+      "domain": "contabo.com",
+      "hostnames": [
+        "vmi2285189.contaboserver.net"
+      ],
+      "isTor": false,
+      "totalReports": 90,
+      "numDistinctUsers": 47,
+      "lastReportedAt": "2026-07-03T03:31:42+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "100.55.60.114": {
+    "ip": "100.55.60.114",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "100.55.60.114",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 16,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Amazon Data Services Northern Virginia",
+      "domain": "amazon.com",
+      "hostnames": [
+        "ec2-100-55-60-114.compute-1.amazonaws.com"
+      ],
+      "isTor": false,
+      "totalReports": 2,
+      "numDistinctUsers": 2,
+      "lastReportedAt": "2026-07-02T10:20:42+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.100.194.252": {
+    "ip": "101.100.194.252",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.100.194.252",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "SG",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Vodien Internet Solutions Pte Ltd",
+      "domain": "vodien.com",
+      "hostnames": [
+        "252.194.100.101.in-addr.arpa"
+      ],
+      "isTor": false,
+      "totalReports": 2135,
+      "numDistinctUsers": 333,
+      "lastReportedAt": "2026-07-03T00:07:12+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.109.255.242": {
+    "ip": "101.109.255.242",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.109.255.242",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TH",
+      "usageType": "Fixed Line ISP",
+      "isp": "TOT Public Company Limited",
+      "domain": "totidc.net",
+      "hostnames": [
+        "node-1ek2.pool-101-109.dynamic.nt-isp.net"
+      ],
+      "isTor": false,
+      "totalReports": 86,
+      "numDistinctUsers": 57,
+      "lastReportedAt": "2026-07-01T05:33:27+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.109.41.163": {
+    "ip": "101.109.41.163",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.109.41.163",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TH",
+      "usageType": "Fixed Line ISP",
+      "isp": "TOT Public Company Limited",
+      "domain": "totidc.net",
+      "hostnames": [
+        "node-883.pool-101-109.dynamic.nt-isp.net"
+      ],
+      "isTor": false,
+      "totalReports": 75,
+      "numDistinctUsers": 51,
+      "lastReportedAt": "2026-07-01T16:00:12+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.11.137": {
+    "ip": "101.126.11.137",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.11.137",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1327,
+      "numDistinctUsers": 475,
+      "lastReportedAt": "2026-07-03T03:01:03+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.130.208": {
+    "ip": "101.126.130.208",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.130.208",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1568,
+      "numDistinctUsers": 634,
+      "lastReportedAt": "2026-07-03T03:30:32+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.14.37": {
+    "ip": "101.126.14.37",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.14.37",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 562,
+      "numDistinctUsers": 286,
+      "lastReportedAt": "2026-07-03T03:23:54+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.141.163": {
+    "ip": "101.126.141.163",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.141.163",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 963,
+      "numDistinctUsers": 418,
+      "lastReportedAt": "2026-07-03T03:30:33+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.145.214": {
+    "ip": "101.126.145.214",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.145.214",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 359,
+      "numDistinctUsers": 219,
+      "lastReportedAt": "2026-07-03T03:00:18+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.147.62": {
+    "ip": "101.126.147.62",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.147.62",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1166,
+      "numDistinctUsers": 450,
+      "lastReportedAt": "2026-07-03T02:59:49+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.154.252": {
+    "ip": "101.126.154.252",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.154.252",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1173,
+      "numDistinctUsers": 498,
+      "lastReportedAt": "2026-07-03T03:23:17+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.155.86": {
+    "ip": "101.126.155.86",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.155.86",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1238,
+      "numDistinctUsers": 468,
+      "lastReportedAt": "2026-07-03T00:29:05+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.157.138": {
+    "ip": "101.126.157.138",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.157.138",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1593,
+      "numDistinctUsers": 610,
+      "lastReportedAt": "2026-07-03T03:30:35+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.17.72": {
+    "ip": "101.126.17.72",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.17.72",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 654,
+      "numDistinctUsers": 339,
+      "lastReportedAt": "2026-07-03T03:52:23+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.22.12": {
+    "ip": "101.126.22.12",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.22.12",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 3152,
+      "numDistinctUsers": 885,
+      "lastReportedAt": "2026-07-03T03:49:31+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.26.93": {
+    "ip": "101.126.26.93",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.26.93",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 891,
+      "numDistinctUsers": 425,
+      "lastReportedAt": "2026-07-03T03:30:35+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.30.240": {
+    "ip": "101.126.30.240",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.30.240",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 721,
+      "numDistinctUsers": 349,
+      "lastReportedAt": "2026-07-03T03:20:33+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.35.9": {
+    "ip": "101.126.35.9",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.35.9",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 671,
+      "numDistinctUsers": 339,
+      "lastReportedAt": "2026-07-03T03:44:09+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.4.215": {
+    "ip": "101.126.4.215",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.4.215",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 643,
+      "numDistinctUsers": 318,
+      "lastReportedAt": "2026-07-02T14:24:20+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.53.14": {
+    "ip": "101.126.53.14",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.53.14",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1189,
+      "numDistinctUsers": 532,
+      "lastReportedAt": "2026-07-02T22:51:58+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.54.66": {
+    "ip": "101.126.54.66",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.54.66",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 536,
+      "numDistinctUsers": 274,
+      "lastReportedAt": "2026-07-03T03:12:49+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.54.95": {
+    "ip": "101.126.54.95",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.54.95",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1302,
+      "numDistinctUsers": 484,
+      "lastReportedAt": "2026-07-03T04:05:11+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.55.63": {
+    "ip": "101.126.55.63",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.55.63",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1167,
+      "numDistinctUsers": 519,
+      "lastReportedAt": "2026-07-03T03:58:51+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.55.67": {
+    "ip": "101.126.55.67",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.55.67",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1350,
+      "numDistinctUsers": 557,
+      "lastReportedAt": "2026-07-03T03:30:36+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.67.70": {
+    "ip": "101.126.67.70",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.67.70",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1713,
+      "numDistinctUsers": 648,
+      "lastReportedAt": "2026-07-03T03:30:37+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.71.100": {
+    "ip": "101.126.71.100",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.71.100",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 687,
+      "numDistinctUsers": 307,
+      "lastReportedAt": "2026-07-03T03:05:28+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.81.18": {
+    "ip": "101.126.81.18",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.81.18",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1357,
+      "numDistinctUsers": 498,
+      "lastReportedAt": "2026-07-03T01:16:10+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.82.218": {
+    "ip": "101.126.82.218",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.82.218",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 490,
+      "numDistinctUsers": 240,
+      "lastReportedAt": "2026-07-03T02:15:03+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.86.90": {
+    "ip": "101.126.86.90",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.86.90",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 857,
+      "numDistinctUsers": 287,
+      "lastReportedAt": "2026-07-02T22:04:19+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.88.251": {
+    "ip": "101.126.88.251",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.88.251",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1328,
+      "numDistinctUsers": 535,
+      "lastReportedAt": "2026-07-03T03:30:38+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.89.0": {
+    "ip": "101.126.89.0",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.89.0",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 721,
+      "numDistinctUsers": 324,
+      "lastReportedAt": "2026-07-03T03:46:52+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.89.144": {
+    "ip": "101.126.89.144",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.89.144",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1411,
+      "numDistinctUsers": 518,
+      "lastReportedAt": "2026-07-03T02:43:46+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.89.164": {
+    "ip": "101.126.89.164",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.89.164",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 751,
+      "numDistinctUsers": 374,
+      "lastReportedAt": "2026-07-03T02:31:00+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.126.89.35": {
+    "ip": "101.126.89.35",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.126.89.35",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1297,
+      "numDistinctUsers": 479,
+      "lastReportedAt": "2026-07-03T01:16:22+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.1.58": {
+    "ip": "101.13.1.58",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.1.58",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1304,
+      "numDistinctUsers": 256,
+      "lastReportedAt": "2026-07-03T03:21:51+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.4.119": {
+    "ip": "101.13.4.119",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.4.119",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1212,
+      "numDistinctUsers": 247,
+      "lastReportedAt": "2026-07-03T03:43:10+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.4.120": {
+    "ip": "101.13.4.120",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.4.120",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1456,
+      "numDistinctUsers": 203,
+      "lastReportedAt": "2026-07-02T22:19:04+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.4.124": {
+    "ip": "101.13.4.124",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.4.124",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1742,
+      "numDistinctUsers": 294,
+      "lastReportedAt": "2026-07-03T02:25:08+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.4.128": {
+    "ip": "101.13.4.128",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.4.128",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1541,
+      "numDistinctUsers": 270,
+      "lastReportedAt": "2026-07-03T03:11:25+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.5.26": {
+    "ip": "101.13.5.26",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.5.26",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1625,
+      "numDistinctUsers": 289,
+      "lastReportedAt": "2026-07-03T00:46:28+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.5.30": {
+    "ip": "101.13.5.30",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.5.30",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1318,
+      "numDistinctUsers": 197,
+      "lastReportedAt": "2026-07-03T02:00:59+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.5.32": {
+    "ip": "101.13.5.32",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.5.32",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 394,
+      "numDistinctUsers": 135,
+      "lastReportedAt": "2026-07-03T02:56:02+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.5.33": {
+    "ip": "101.13.5.33",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.5.33",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 458,
+      "numDistinctUsers": 131,
+      "lastReportedAt": "2026-07-02T21:19:17+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.5.34": {
+    "ip": "101.13.5.34",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.5.34",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 910,
+      "numDistinctUsers": 161,
+      "lastReportedAt": "2026-07-03T04:02:13+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.5.39": {
+    "ip": "101.13.5.39",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.5.39",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1279,
+      "numDistinctUsers": 189,
+      "lastReportedAt": "2026-07-03T02:28:05+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.5.49": {
+    "ip": "101.13.5.49",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.5.49",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1121,
+      "numDistinctUsers": 244,
+      "lastReportedAt": "2026-07-03T03:51:42+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.5.50": {
+    "ip": "101.13.5.50",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.5.50",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1727,
+      "numDistinctUsers": 300,
+      "lastReportedAt": "2026-07-03T01:27:47+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.5.63": {
+    "ip": "101.13.5.63",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.5.63",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1306,
+      "numDistinctUsers": 210,
+      "lastReportedAt": "2026-07-03T02:41:41+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.6.86": {
+    "ip": "101.13.6.86",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.6.86",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1267,
+      "numDistinctUsers": 196,
+      "lastReportedAt": "2026-07-03T03:12:08+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.13.6.91": {
+    "ip": "101.13.6.91",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.13.6.91",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Mobile ISP",
+      "isp": "Taiwan Mobile Co., Ltd.",
+      "domain": "taiwanmobile.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 618,
+      "numDistinctUsers": 175,
+      "lastReportedAt": "2026-07-03T03:28:14+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.132.144.220": {
+    "ip": "101.132.144.220",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.132.144.220",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Aliyun Computing Co., LTD",
+      "domain": "alibabacloud.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 137,
+      "numDistinctUsers": 107,
+      "lastReportedAt": "2026-07-02T20:20:11+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.200.61.10": {
+    "ip": "101.200.61.10",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.200.61.10",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 4,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Aliyun Computing Co., LTD",
+      "domain": "alibabacloud.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 2,
+      "numDistinctUsers": 1,
+      "lastReportedAt": "2026-07-02T12:20:34+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.206.211.72": {
+    "ip": "101.206.211.72",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.206.211.72",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "UNICOM Sichuan province network",
+      "domain": "chinaunicom.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 794,
+      "numDistinctUsers": 397,
+      "lastReportedAt": "2026-07-03T02:35:08+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.227.203.162": {
+    "ip": "101.227.203.162",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.227.203.162",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "CHINANET SHANGHAI PROVINCE NETWORK",
+      "domain": "online.sh.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1947,
+      "numDistinctUsers": 722,
+      "lastReportedAt": "2026-07-03T04:01:28+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.227.79.195": {
+    "ip": "101.227.79.195",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.227.79.195",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "CHINANET SHANGHAI PROVINCE NETWORK",
+      "domain": "online.sh.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 255,
+      "numDistinctUsers": 162,
+      "lastReportedAt": "2026-07-02T23:43:59+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.24.126.14": {
+    "ip": "101.24.126.14",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.24.126.14",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "China Unicom Hebei province network",
+      "domain": "chinaunicom.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 44,
+      "numDistinctUsers": 35,
+      "lastReportedAt": "2026-07-02T13:45:10+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.251.197.46": {
+    "ip": "101.251.197.46",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.251.197.46",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "Beijing capitalonline data service co.,LTD",
+      "domain": "yun-idc.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 617,
+      "numDistinctUsers": 153,
+      "lastReportedAt": "2026-07-03T02:54:47+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.32.1.25": {
+    "ip": "101.32.1.25",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.32.1.25",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "ACEVILLE PTE.LTD.",
+      "domain": "tencent.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 2432,
+      "numDistinctUsers": 778,
+      "lastReportedAt": "2026-07-03T03:05:25+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.32.145.199": {
+    "ip": "101.32.145.199",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.32.145.199",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "SG",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "ACEVILLE PTE.LTD.",
+      "domain": "tencent.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1003,
+      "numDistinctUsers": 479,
+      "lastReportedAt": "2026-07-03T03:30:40+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.32.240.31": {
+    "ip": "101.32.240.31",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.32.240.31",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "SG",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "ACEVILLE PTE.LTD.",
+      "domain": "tencent.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 6651,
+      "numDistinctUsers": 1253,
+      "lastReportedAt": "2026-07-03T03:52:35+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.32.33.214": {
+    "ip": "101.32.33.214",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.32.33.214",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "ACEVILLE PTE.LTD.",
+      "domain": "tencent.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 69,
+      "numDistinctUsers": 41,
+      "lastReportedAt": "2026-07-01T22:43:04+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.33.33.44": {
+    "ip": "101.33.33.44",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.33.33.44",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "ACEVILLE PTE.LTD.",
+      "domain": "tencent.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 66,
+      "numDistinctUsers": 31,
+      "lastReportedAt": "2026-07-02T20:08:33+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.33.55.172": {
+    "ip": "101.33.55.172",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.33.55.172",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "JP",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "ACEVILLE PTE.LTD.",
+      "domain": "tencent.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1030,
+      "numDistinctUsers": 496,
+      "lastReportedAt": "2026-07-03T03:14:56+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.34.249.202": {
+    "ip": "101.34.249.202",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.34.249.202",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Tencent Cloud Computing (Beijing) Co., Ltd",
+      "domain": "tencentcloud.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1427,
+      "numDistinctUsers": 74,
+      "lastReportedAt": "2026-07-03T04:02:09+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.34.59.249": {
+    "ip": "101.34.59.249",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.34.59.249",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Tencent Cloud Computing (Beijing) Co., Ltd",
+      "domain": "tencentcloud.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 71,
+      "numDistinctUsers": 61,
+      "lastReportedAt": "2026-07-02T22:34:29+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.35.93.253": {
+    "ip": "101.35.93.253",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.35.93.253",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Tencent Cloud Computing (Beijing) Co., Ltd",
+      "domain": "tencentcloud.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 30,
+      "numDistinctUsers": 24,
+      "lastReportedAt": "2026-07-02T23:47:22+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.36.104.242": {
+    "ip": "101.36.104.242",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.36.104.242",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "JP",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 6599,
+      "numDistinctUsers": 1228,
+      "lastReportedAt": "2026-07-03T03:30:41+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.36.107.233": {
+    "ip": "101.36.107.233",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.36.107.233",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 5476,
+      "numDistinctUsers": 1138,
+      "lastReportedAt": "2026-07-03T03:30:43+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.36.109.144": {
+    "ip": "101.36.109.144",
+    "vt": {
+      "as_owner": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "asn": 135377,
+      "country": "HK",
+      "detected_urls": [
+        {
+          "positives": 10,
+          "scan_date": "2026-07-02 02:46:22",
+          "total": 92,
+          "url": "https://101.36.109.144/"
+        },
+        {
+          "positives": 10,
+          "scan_date": "2026-06-27 22:30:13",
+          "total": 92,
+          "url": "http://101.36.109.144/"
+        }
+      ],
+      "resolutions": [],
+      "response_code": 1,
+      "undetected_urls": [],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "101.36.109.144",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 581,
+      "numDistinctUsers": 167,
+      "lastReportedAt": "2026-07-03T02:21:49+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.36.109.176": {
+    "ip": "101.36.109.176",
+    "vt": {
+      "as_owner": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "asn": 135377,
+      "country": "HK",
+      "detected_referrer_samples": [
+        {
+          "date": "2022-06-20 07:24:19",
+          "positives": 2,
+          "sha256": "0a623324ff6c921a2758056eeac21be5af9914d326b191d3c184408a52d27577",
+          "total": 71
+        },
+        {
+          "date": "2022-06-16 23:40:36",
+          "positives": 2,
+          "sha256": "05f048cd4272fda28822fb150e18dc78bc9134bf6221c048d3105958d8192a01",
+          "total": 71
+        },
+        {
+          "date": "2022-06-16 14:27:41",
+          "positives": 2,
+          "sha256": "14b1893e8e038506c3a0bb4fe77e536dd765244cdccbf9a1f174ac7d25c4bfa6",
+          "total": 71
+        },
+        {
+          "date": "2022-06-01 01:59:23",
+          "positives": 2,
+          "sha256": "7665fc3998dcc6681ceee13490b4c3900fbecaa5aaaaf60b354cf3aeaf6c08b1",
+          "total": 72
+        }
+      ],
+      "detected_urls": [
+        {
+          "positives": 10,
+          "scan_date": "2026-07-02 16:46:09",
+          "total": 92,
+          "url": "https://101.36.109.176/"
+        },
+        {
+          "positives": 10,
+          "scan_date": "2026-06-27 04:33:12",
+          "total": 92,
+          "url": "http://101.36.109.176/"
+        }
+      ],
+      "resolutions": [],
+      "response_code": 1,
+      "undetected_referrer_samples": [
+        {
+          "date": "2026-01-15 18:11:34",
+          "positives": 0,
+          "sha256": "9c24e57f776cfe8b1baea3197959fbd1995fdea2d42c8a699ce9eadd710ba1c2",
+          "total": 76
+        },
+        {
+          "date": "2025-10-29 07:26:43",
+          "positives": 0,
+          "sha256": "5e2855a9e1f2f59fb9edb9dade78c3c95d9f20cc7eb16d0f82ef5d4fa0802488",
+          "total": 77
+        }
+      ],
+      "undetected_urls": [],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "101.36.109.176",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 5458,
+      "numDistinctUsers": 1158,
+      "lastReportedAt": "2026-07-03T03:54:32+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.36.110.164": {
+    "ip": "101.36.110.164",
+    "vt": {
+      "as_owner": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "asn": 135377,
+      "country": "HK",
+      "detected_downloaded_samples": [],
+      "detected_urls": [
+        {
+          "positives": 12,
+          "scan_date": "2026-06-30 02:43:58",
+          "total": 92,
+          "url": "https://101.36.110.164/"
+        },
+        {
+          "positives": 11,
+          "scan_date": "2026-06-29 11:37:55",
+          "total": 92,
+          "url": "http://101.36.110.164/"
+        }
+      ],
+      "resolutions": [
+        {
+          "hostname": "xrwtwl.com",
+          "last_resolved": "2024-07-14 03:54:04"
+        }
+      ],
+      "response_code": 1,
+      "undetected_downloaded_samples": [
+        {
+          "date": "2025-08-02 08:09:51",
+          "positives": 0,
+          "sha256": "417b153fd9b2b5f69898b65ffb39fe1e0d1537ad70dcd74fa72c4c0f916ab30b",
+          "total": 77
+        }
+      ],
+      "undetected_urls": [
+        [
+          "http://101.36.110.164:9009/file_id.dizd",
+          "759d1de0c3dd0ee1fd1ff4060796c20bea8b6f2d448617b71dd19c6765fe89c9",
+          0,
+          93,
+          "2022-03-30 04:39:57"
+        ]
+      ],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "101.36.110.164",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 725,
+      "numDistinctUsers": 338,
+      "lastReportedAt": "2026-07-03T03:43:00+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.36.111.119": {
+    "ip": "101.36.111.119",
+    "vt": {
+      "as_owner": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "asn": 135377,
+      "country": "HK",
+      "detected_urls": [
+        {
+          "positives": 10,
+          "scan_date": "2026-06-29 08:41:52",
+          "total": 92,
+          "url": "https://101.36.111.119/"
+        },
+        {
+          "positives": 10,
+          "scan_date": "2026-06-18 16:52:40",
+          "total": 92,
+          "url": "http://101.36.111.119/"
+        }
+      ],
+      "resolutions": [
+        {
+          "hostname": "www.tcxmmy.cn",
+          "last_resolved": "2022-12-07 04:35:31"
+        },
+        {
+          "hostname": "xss.qianxin.pw",
+          "last_resolved": "2020-06-17 10:51:16"
+        }
+      ],
+      "response_code": 1,
+      "undetected_urls": [],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "101.36.111.119",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 5576,
+      "numDistinctUsers": 1166,
+      "lastReportedAt": "2026-07-02T19:07:38+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.36.111.155": {
+    "ip": "101.36.111.155",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.36.111.155",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1694,
+      "numDistinctUsers": 630,
+      "lastReportedAt": "2026-07-03T03:30:44+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.36.114.252": {
+    "ip": "101.36.114.252",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.36.114.252",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [
+        "fwnvyxu.top"
+      ],
+      "isTor": false,
+      "totalReports": 757,
+      "numDistinctUsers": 259,
+      "lastReportedAt": "2026-07-03T00:20:41+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.36.119.203": {
+    "ip": "101.36.119.203",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.36.119.203",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 344,
+      "numDistinctUsers": 233,
+      "lastReportedAt": "2026-07-03T03:29:16+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.36.122.129": {
+    "ip": "101.36.122.129",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.36.122.129",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 357,
+      "numDistinctUsers": 204,
+      "lastReportedAt": "2026-06-30T05:57:53+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.36.124.127": {
+    "ip": "101.36.124.127",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.36.124.127",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [
+        "mail6.bahia-paradise.com"
+      ],
+      "isTor": false,
+      "totalReports": 5610,
+      "numDistinctUsers": 1156,
+      "lastReportedAt": "2026-07-03T03:51:31+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "101.36.127.85": {
+    "ip": "101.36.127.85",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "101.36.127.85",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1889,
+      "numDistinctUsers": 200,
+      "lastReportedAt": "2026-07-03T02:32:06+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "102.220.160.47": {
+    "ip": "102.220.160.47",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "102.220.160.47",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "SI",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Internet",
+      "domain": "flashwisp.com.ng",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 343,
+      "numDistinctUsers": 167,
+      "lastReportedAt": "2026-07-03T03:49:17+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "104.46.226.61": {
+    "ip": "104.46.226.61",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "104.46.226.61",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "JP",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 218,
+      "numDistinctUsers": 192,
+      "lastReportedAt": "2026-07-03T02:08:04+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "106.251.244.178": {
+    "ip": "106.251.244.178",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "106.251.244.178",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Commercial",
+      "isp": "LG DACOM Corporation",
+      "domain": "dacom.co.kr",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 4506,
+      "numDistinctUsers": 1051,
+      "lastReportedAt": "2026-07-03T03:53:12+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "110.93.224.226": {
+    "ip": "110.93.224.226",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "110.93.224.226",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "PK",
+      "usageType": "Fixed Line ISP",
+      "isp": "Transworld Associates (Pvt.) Ltd.",
+      "domain": "tw1.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 4040,
+      "numDistinctUsers": 1080,
+      "lastReportedAt": "2026-07-03T04:06:05+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "114.34.106.146": {
+    "ip": "114.34.106.146",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "114.34.106.146",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TW",
+      "usageType": "Fixed Line ISP",
+      "isp": "Chunghwa Telecom Data Communication Business Group",
+      "domain": "cht.com.tw",
+      "hostnames": [
+        "114-34-106-146.hinet-ip.hinet.net"
+      ],
+      "isTor": false,
+      "totalReports": 6585,
+      "numDistinctUsers": 1202,
+      "lastReportedAt": "2026-07-03T04:04:24+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "116.110.214.207": {
+    "ip": "116.110.214.207",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "116.110.214.207",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "VN",
+      "usageType": "Fixed Line ISP",
+      "isp": "Viettel Group",
+      "domain": "viettel.com.vn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 142,
+      "numDistinctUsers": 129,
+      "lastReportedAt": "2026-07-03T03:58:00+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "119.18.48.74": {
+    "ip": "119.18.48.74",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "119.18.48.74",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "IN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Hostgator Asian Operations Division.",
+      "domain": "hostgator.in",
+      "hostnames": [
+        "119-18-48-74.webhostbox.net"
+      ],
+      "isTor": false,
+      "totalReports": 353,
+      "numDistinctUsers": 248,
+      "lastReportedAt": "2026-07-03T03:59:24+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "120.48.7.181": {
+    "ip": "120.48.7.181",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "120.48.7.181",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+      "domain": "baidu.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 920,
+      "numDistinctUsers": 428,
+      "lastReportedAt": "2026-07-03T03:24:13+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "121.227.152.250": {
+    "ip": "121.227.152.250",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "121.227.152.250",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "CHINANET jiangsu province network",
+      "domain": "chinatelecom.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1653,
+      "numDistinctUsers": 564,
+      "lastReportedAt": "2026-07-03T02:37:52+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "122.168.123.73": {
+    "ip": "122.168.123.73",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "122.168.123.73",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "IN",
+      "usageType": "Fixed Line ISP",
+      "isp": "1 Malviya Nagar,",
+      "domain": "airtel.in",
+      "hostnames": [
+        "abts-mp-static-073.123.168.122.airtelbroadband.in"
+      ],
+      "isTor": false,
+      "totalReports": 2737,
+      "numDistinctUsers": 919,
+      "lastReportedAt": "2026-07-03T04:05:49+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "124.156.129.246": {
+    "ip": "124.156.129.246",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "124.156.129.246",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Asia Pacific Network Information Centre",
+      "domain": "apnic.net",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 6310,
+      "numDistinctUsers": 1286,
+      "lastReportedAt": "2026-07-03T04:02:55+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "139.59.146.150": {
+    "ip": "139.59.146.150",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "139.59.146.150",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "DE",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "DigitalOcean, LLC",
+      "domain": "digitalocean.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1167,
+      "numDistinctUsers": 551,
+      "lastReportedAt": "2026-07-03T03:26:43+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "139.59.18.80": {
+    "ip": "139.59.18.80",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "139.59.18.80",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "IN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "DigitalOcean, LLC",
+      "domain": "digitalocean.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 978,
+      "numDistinctUsers": 490,
+      "lastReportedAt": "2026-07-03T04:05:11+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "14.103.140.39": {
+    "ip": "14.103.140.39",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "14.103.140.39",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Volcano Engine Technology Co., Ltd.",
+      "domain": "bytedance.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 886,
+      "numDistinctUsers": 460,
+      "lastReportedAt": "2026-07-03T03:50:25+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "141.11.88.101": {
+    "ip": "141.11.88.101",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "141.11.88.101",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Vantiva SA",
+      "domain": "vantiva.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1058,
+      "numDistinctUsers": 178,
+      "lastReportedAt": "2026-07-03T03:46:08+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "147.148.205.252": {
+    "ip": "147.148.205.252",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "147.148.205.252",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "GB",
+      "usageType": "Mobile ISP",
+      "isp": "British Telecommunications plc",
+      "domain": "bt.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1570,
+      "numDistinctUsers": 235,
+      "lastReportedAt": "2026-07-03T03:45:31+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "148.170.129.144": {
+    "ip": "148.170.129.144",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "148.170.129.144",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CA",
+      "usageType": "Fixed Line ISP",
+      "isp": "Eastlink HSI",
+      "domain": "eastlink.ca",
+      "hostnames": [
+        "host-148-170-129-144.public.eastlink.ca"
+      ],
+      "isTor": false,
+      "totalReports": 1635,
+      "numDistinctUsers": 218,
+      "lastReportedAt": "2026-07-03T04:03:26+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "152.32.233.2": {
+    "ip": "152.32.233.2",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "152.32.233.2",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1452,
+      "numDistinctUsers": 96,
+      "lastReportedAt": "2026-07-03T02:04:24+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "152.32.247.22": {
+    "ip": "152.32.247.22",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "152.32.247.22",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TH",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+      "domain": "ucloud.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1715,
+      "numDistinctUsers": 201,
+      "lastReportedAt": "2026-07-03T03:56:34+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "154.64.241.188": {
+    "ip": "154.64.241.188",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "154.64.241.188",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Fixed Line ISP",
+      "isp": "PSINet, Inc.",
+      "domain": "psinet.hn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 96,
+      "numDistinctUsers": 78,
+      "lastReportedAt": "2026-07-03T04:00:46+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "158.94.210.203": {
+    "ip": "158.94.210.203",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "158.94.210.203",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "NL",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "OMEGATECH",
+      "domain": "omegatech.sc",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 365,
+      "numDistinctUsers": 138,
+      "lastReportedAt": "2026-07-03T04:05:11+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "159.192.144.206": {
+    "ip": "159.192.144.206",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "159.192.144.206",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "TH",
+      "usageType": "Fixed Line ISP",
+      "isp": "10 Fl. 72. CAT TELECOM TOWER Bangrak Bangkok Thailand",
+      "domain": "ntplc.co.th",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 676,
+      "numDistinctUsers": 268,
+      "lastReportedAt": "2026-07-03T03:54:37+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "159.203.120.106": {
+    "ip": "159.203.120.106",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "159.203.120.106",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "DigitalOcean, LLC",
+      "domain": "digitalocean.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1657,
+      "numDistinctUsers": 412,
+      "lastReportedAt": "2026-07-03T03:38:48+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "163.223.244.3": {
+    "ip": "163.223.244.3",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "163.223.244.3",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "IN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "BRNET INFOCOM PRIVATE LIMITED",
+      "domain": "brnetinfo.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 599,
+      "numDistinctUsers": 201,
+      "lastReportedAt": "2026-07-03T03:44:24+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "165.232.143.119": {
+    "ip": "165.232.143.119",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "165.232.143.119",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "DigitalOcean, LLC",
+      "domain": "digitalocean.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 489,
+      "numDistinctUsers": 61,
+      "lastReportedAt": "2026-07-03T04:01:15+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "166.62.124.255": {
+    "ip": "166.62.124.255",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "166.62.124.255",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "GoDaddy.com, LLC",
+      "domain": "godaddy.com",
+      "hostnames": [
+        "255.124.62.166.host.secureserver.net"
+      ],
+      "isTor": false,
+      "totalReports": 647,
+      "numDistinctUsers": 121,
+      "lastReportedAt": "2026-07-03T03:30:27+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "172.110.223.94": {
+    "ip": "172.110.223.94",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "172.110.223.94",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Dedires LLC",
+      "domain": "dedires.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 40,
+      "numDistinctUsers": 37,
+      "lastReportedAt": "2026-07-03T02:02:05+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "176.65.148.132": {
+    "ip": "176.65.148.132",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "176.65.148.132",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "NL",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Pfcloud UG",
+      "domain": "pfcloud.io",
+      "hostnames": [
+        "176.65.148.132.ptr.pfcloud.network"
+      ],
+      "isTor": false,
+      "totalReports": 8976,
+      "numDistinctUsers": 151,
+      "lastReportedAt": "2026-07-03T03:54:30+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "177.76.134.52": {
+    "ip": "177.76.134.52",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "177.76.134.52",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "BR",
+      "usageType": "Fixed Line ISP",
+      "isp": "TELEFÔNICA BRASIL S.A",
+      "domain": "telefonica.com.br",
+      "hostnames": [
+        "ip-177-76-134-52.user.vivozap.com.br"
+      ],
+      "isTor": false,
+      "totalReports": 655,
+      "numDistinctUsers": 355,
+      "lastReportedAt": "2026-07-03T04:02:33+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "180.76.236.214": {
+    "ip": "180.76.236.214",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "180.76.236.214",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+      "domain": "baidu.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 2430,
+      "numDistinctUsers": 810,
+      "lastReportedAt": "2026-07-03T03:39:57+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "181.188.176.242": {
+    "ip": "181.188.176.242",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "181.188.176.242",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "BO",
+      "usageType": "Fixed Line ISP",
+      "isp": "Telefónica Celular de Bolivia S.A.",
+      "domain": "tigo.com.bo",
+      "hostnames": [
+        "LPZ-181-188-176-00242.tigo.bo"
+      ],
+      "isTor": false,
+      "totalReports": 6681,
+      "numDistinctUsers": 1219,
+      "lastReportedAt": "2026-07-03T03:59:10+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "182.44.10.68": {
+    "ip": "182.44.10.68",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "182.44.10.68",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Commercial",
+      "isp": "CHINANET SHANDONG PROVINCE NETWORK",
+      "domain": "chinatelecom.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 291,
+      "numDistinctUsers": 180,
+      "lastReportedAt": "2026-07-03T03:00:03+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "184.105.139.67": {
+    "ip": "184.105.139.67",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "184.105.139.67",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "The Shadowserver Foundation, Inc.",
+      "domain": "shadowserver.org",
+      "hostnames": [
+        "67.64-26.139.105.184.in-addr.arpa",
+        "scan-01.shadowserver.io"
+      ],
+      "isTor": false,
+      "totalReports": 2817,
+      "numDistinctUsers": 392,
+      "lastReportedAt": "2026-07-03T04:00:55+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "185.214.138.30": {
+    "ip": "185.214.138.30",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "185.214.138.30",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "ES",
+      "usageType": "Fixed Line ISP",
+      "isp": "XFERA Moviles S.A.",
+      "domain": "yoigo.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 64,
+      "numDistinctUsers": 41,
+      "lastReportedAt": "2026-07-02T23:16:55+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "186.31.95.163": {
+    "ip": "186.31.95.163",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "186.31.95.163",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CO",
+      "usageType": "Fixed Line ISP",
+      "isp": "ETB - Colombia",
+      "domain": "etb.net.co",
+      "hostnames": [
+        "static-186-31-95-163.static.etb.net.co"
+      ],
+      "isTor": false,
+      "totalReports": 5413,
+      "numDistinctUsers": 1119,
+      "lastReportedAt": "2026-07-03T03:28:35+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "187.50.194.182": {
+    "ip": "187.50.194.182",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "187.50.194.182",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "BR",
+      "usageType": "Fixed Line ISP",
+      "isp": "TELEFÔNICA BRASIL S.A",
+      "domain": "telefonica.com.br",
+      "hostnames": [
+        "187-50-194-182.customer.tdatabrasil.net.br"
+      ],
+      "isTor": false,
+      "totalReports": 1654,
+      "numDistinctUsers": 246,
+      "lastReportedAt": "2026-07-03T03:36:52+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "190.115.84.25": {
+    "ip": "190.115.84.25",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "190.115.84.25",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "BR",
+      "usageType": "Fixed Line ISP",
+      "isp": "J Riva Junior Eletronics ME",
+      "domain": "turbolink.net.br",
+      "hostnames": [
+        "190-115-84-25.turbolink.psi.br"
+      ],
+      "isTor": false,
+      "totalReports": 7104,
+      "numDistinctUsers": 510,
+      "lastReportedAt": "2026-07-03T04:05:35+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "192.169.234.117": {
+    "ip": "192.169.234.117",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "192.169.234.117",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "GoDaddy.com, LLC",
+      "domain": "godaddy.com",
+      "hostnames": [
+        "117.234.169.192.host.secureserver.net"
+      ],
+      "isTor": false,
+      "totalReports": 779,
+      "numDistinctUsers": 133,
+      "lastReportedAt": "2026-07-03T04:04:30+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "193.163.125.9": {
+    "ip": "193.163.125.9",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "193.163.125.9",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "GB",
+      "usageType": "Commercial",
+      "isp": "Driftnet Ltd",
+      "domain": "driftnet.io",
+      "hostnames": [
+        "r1-9-9.census.internet-measurement.com"
+      ],
+      "isTor": false,
+      "totalReports": 2299,
+      "numDistinctUsers": 117,
+      "lastReportedAt": "2026-07-03T03:04:43+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "193.26.115.137": {
+    "ip": "193.26.115.137",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "193.26.115.137",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "1337 Services GmbH",
+      "domain": "as210558.net",
+      "hostnames": [
+        "193.26.115.137"
+      ],
+      "isTor": false,
+      "totalReports": 704,
+      "numDistinctUsers": 113,
+      "lastReportedAt": "2026-07-03T03:12:11+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "194.187.176.117": {
+    "ip": "194.187.176.117",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "194.187.176.117",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "DE",
+      "usageType": "Commercial",
+      "isp": "Alpha Strike Labs GmbH",
+      "domain": "alphastrike.io",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 167,
+      "numDistinctUsers": 73,
+      "lastReportedAt": "2026-07-03T02:04:28+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "195.184.76.68": {
+    "ip": "195.184.76.68",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "195.184.76.68",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Commercial",
+      "isp": "FR ONYPHE",
+      "domain": "onyphe.io",
+      "hostnames": [
+        "ayana.probe.onyphe.net"
+      ],
+      "isTor": false,
+      "totalReports": 1911,
+      "numDistinctUsers": 130,
+      "lastReportedAt": "2026-07-03T03:55:14+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "198.23.249.85": {
+    "ip": "198.23.249.85",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "198.23.249.85",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "RackNerd LLC",
+      "domain": "racknerd.com",
+      "hostnames": [
+        "198-23-249-85-host.colocrossing.com"
+      ],
+      "isTor": false,
+      "totalReports": 807,
+      "numDistinctUsers": 140,
+      "lastReportedAt": "2026-07-03T03:20:18+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "20.13.164.162": {
+    "ip": "20.13.164.162",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "20.13.164.162",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "IE",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 3685,
+      "numDistinctUsers": 1045,
+      "lastReportedAt": "2026-07-03T03:52:34+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "20.226.82.21": {
+    "ip": "20.226.82.21",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "20.226.82.21",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "BR",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 183,
+      "numDistinctUsers": 114,
+      "lastReportedAt": "2026-07-03T03:25:27+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "20.255.61.0": {
+    "ip": "20.255.61.0",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "20.255.61.0",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "HK",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 3467,
+      "numDistinctUsers": 922,
+      "lastReportedAt": "2026-07-03T03:55:36+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "200.219.200.16": {
+    "ip": "200.219.200.16",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "200.219.200.16",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "BR",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Equinix (EMEA) Acquisition Enterprises B.V.",
+      "domain": "equinix.com",
+      "hostnames": [
+        "static.datacenter1.com.br"
+      ],
+      "isTor": false,
+      "totalReports": 489,
+      "numDistinctUsers": 297,
+      "lastReportedAt": "2026-07-03T03:53:49+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "202.72.196.75": {
+    "ip": "202.72.196.75",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "202.72.196.75",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "ID",
+      "usageType": "Fixed Line ISP",
+      "isp": "PT Multidata Rancana Prima",
+      "domain": "multidata.net.id",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1867,
+      "numDistinctUsers": 336,
+      "lastReportedAt": "2026-07-03T03:31:00+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "207.90.244.19": {
+    "ip": "207.90.244.19",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "207.90.244.19",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Fixed Line ISP",
+      "isp": "SHODAN, LLC",
+      "domain": "shodan.io",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 8734,
+      "numDistinctUsers": 171,
+      "lastReportedAt": "2026-07-03T04:05:02+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "211.51.132.104": {
+    "ip": "211.51.132.104",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "211.51.132.104",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Fixed Line ISP",
+      "isp": "Korea Telecom",
+      "domain": "kt.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 321,
+      "numDistinctUsers": 216,
+      "lastReportedAt": "2026-07-03T03:38:52+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "213.209.159.231": {
+    "ip": "213.209.159.231",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "213.209.159.231",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "DE",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Feo Prest SRL",
+      "domain": "feoprest.life",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 19526,
+      "numDistinctUsers": 275,
+      "lastReportedAt": "2026-07-03T04:04:32+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "218.59.201.12": {
+    "ip": "218.59.201.12",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "218.59.201.12",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "China Unicom Shandong province network",
+      "domain": "chinaunicom.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 2460,
+      "numDistinctUsers": 97,
+      "lastReportedAt": "2026-07-03T03:52:31+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "222.97.112.179": {
+    "ip": "222.97.112.179",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "222.97.112.179",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Fixed Line ISP",
+      "isp": "Korea Telecom",
+      "domain": "kt.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 143,
+      "numDistinctUsers": 74,
+      "lastReportedAt": "2026-07-03T03:30:26+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "23.94.92.98": {
+    "ip": "23.94.92.98",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "23.94.92.98",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "RackNerd LLC",
+      "domain": "racknerd.com",
+      "hostnames": [
+        "23-94-92-98-host.colocrossing.com"
+      ],
+      "isTor": false,
+      "totalReports": 1486,
+      "numDistinctUsers": 175,
+      "lastReportedAt": "2026-07-03T03:32:55+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "24.144.84.83": {
+    "ip": "24.144.84.83",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "24.144.84.83",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "DigitalOcean, LLC",
+      "domain": "digitalocean.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 2308,
+      "numDistinctUsers": 228,
+      "lastReportedAt": "2026-07-03T03:35:41+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "27.110.166.67": {
+    "ip": "27.110.166.67",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "27.110.166.67",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "PH",
+      "usageType": "Fixed Line ISP",
+      "isp": "Philippine Long Distance Telephone Co.",
+      "domain": "pldthome.com",
+      "hostnames": [
+        "ns2.revlv.net"
+      ],
+      "isTor": false,
+      "totalReports": 5507,
+      "numDistinctUsers": 1161,
+      "lastReportedAt": "2026-07-03T03:48:51+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "34.116.189.41": {
+    "ip": "34.116.189.41",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "34.116.189.41",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "PL",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Google LLC",
+      "domain": "google.com",
+      "hostnames": [
+        "41.189.116.34.bc.googleusercontent.com"
+      ],
+      "isTor": false,
+      "totalReports": 68,
+      "numDistinctUsers": 55,
+      "lastReportedAt": "2026-07-03T04:05:01+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "4.193.152.113": {
+    "ip": "4.193.152.113",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "4.193.152.113",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "SG",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 305,
+      "numDistinctUsers": 211,
+      "lastReportedAt": "2026-07-03T03:42:42+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "41.191.229.226": {
+    "ip": "41.191.229.226",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "41.191.229.226",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KE",
+      "usageType": "Fixed Line ISP",
+      "isp": "Liquid Telecommunications Operations Limited",
+      "domain": "liquidtelecom.mu",
+      "hostnames": [
+        "41.191.229.226.liquidtelecom.net"
+      ],
+      "isTor": false,
+      "totalReports": 4780,
+      "numDistinctUsers": 1120,
+      "lastReportedAt": "2026-07-03T03:20:29+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "43.156.212.6": {
+    "ip": "43.156.212.6",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "43.156.212.6",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "SG",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Asia Pacific Network Information Center, Pty. Ltd.",
+      "domain": "apnic.net",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1100,
+      "numDistinctUsers": 274,
+      "lastReportedAt": "2026-07-03T02:28:49+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "43.173.69.147": {
+    "ip": "43.173.69.147",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "43.173.69.147",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "ACEVILLE PTE.LTD.",
+      "domain": "tencent.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 5227,
+      "numDistinctUsers": 1226,
+      "lastReportedAt": "2026-07-03T03:07:03+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "45.148.10.121": {
+    "ip": "45.148.10.121",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "45.148.10.121",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "NL",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "TECHOFF SRV LIMITED",
+      "domain": "dmzhost.co",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 75718,
+      "numDistinctUsers": 1140,
+      "lastReportedAt": "2026-07-03T04:02:11+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "45.148.10.15": {
+    "ip": "45.148.10.15",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "45.148.10.15",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "NL",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "TECHOFF SRV LIMITED",
+      "domain": "dmzhost.co",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1233,
+      "numDistinctUsers": 481,
+      "lastReportedAt": "2026-07-03T03:31:45+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "45.148.10.151": {
+    "ip": "45.148.10.151",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "45.148.10.151",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "NL",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "TECHOFF SRV LIMITED",
+      "domain": "dmzhost.co",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 207148,
+      "numDistinctUsers": 927,
+      "lastReportedAt": "2026-07-03T04:06:04+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "45.148.10.152": {
+    "ip": "45.148.10.152",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "45.148.10.152",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "NL",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "TECHOFF SRV LIMITED",
+      "domain": "dmzhost.co",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 207017,
+      "numDistinctUsers": 922,
+      "lastReportedAt": "2026-07-03T04:06:14+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "45.148.10.183": {
+    "ip": "45.148.10.183",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "45.148.10.183",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "NL",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "TECHOFF SRV LIMITED",
+      "domain": "dmzhost.co",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 89263,
+      "numDistinctUsers": 1560,
+      "lastReportedAt": "2026-07-03T04:06:28+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "45.153.34.144": {
+    "ip": "45.153.34.144",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "45.153.34.144",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "NL",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "TechTies Inc.",
+      "domain": "tech-ties.net",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 676,
+      "numDistinctUsers": 303,
+      "lastReportedAt": "2026-07-03T04:04:07+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "45.198.224.244": {
+    "ip": "45.198.224.244",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "45.198.224.244",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "NL",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "VPSVAULT.HOST LTD",
+      "domain": "vpsvault.host",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 2213,
+      "numDistinctUsers": 153,
+      "lastReportedAt": "2026-07-03T04:04:05+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "45.205.1.242": {
+    "ip": "45.205.1.242",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "45.205.1.242",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "BR",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "VPSVAULT.HOST LTD",
+      "domain": "vpsvault.host",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 5919,
+      "numDistinctUsers": 239,
+      "lastReportedAt": "2026-07-03T04:04:23+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "45.227.254.156": {
+    "ip": "45.227.254.156",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "45.227.254.156",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "BZ",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "XWIN UNIVERSAL LTD",
+      "domain": "xwinnet.biz",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 2803,
+      "numDistinctUsers": 379,
+      "lastReportedAt": "2026-07-03T03:58:35+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "45.227.254.170": {
+    "ip": "45.227.254.170",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "45.227.254.170",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "LT",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "XWIN UNIVERSAL LTD",
+      "domain": "xwinnet.biz",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 214782,
+      "numDistinctUsers": 964,
+      "lastReportedAt": "2026-07-03T04:06:20+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "45.56.84.110": {
+    "ip": "45.56.84.110",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "45.56.84.110",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Linode",
+      "domain": "linode.com",
+      "hostnames": [
+        "45-56-84-110.ip.linodeusercontent.com"
+      ],
+      "isTor": false,
+      "totalReports": 3271,
+      "numDistinctUsers": 136,
+      "lastReportedAt": "2026-07-03T04:04:07+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "45.82.76.104": {
+    "ip": "45.82.76.104",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "45.82.76.104",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "GB",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Detai Prosperous Technologies Limited",
+      "domain": "resec.ai",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 2647,
+      "numDistinctUsers": 134,
+      "lastReportedAt": "2026-07-03T04:05:18+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "47.84.204.63": {
+    "ip": "47.84.204.63",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "47.84.204.63",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "SG",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Alibaba Cloud LLC",
+      "domain": "alibaba-inc.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 656,
+      "numDistinctUsers": 97,
+      "lastReportedAt": "2026-07-03T01:00:17+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "47.89.187.129": {
+    "ip": "47.89.187.129",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "47.89.187.129",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Alibaba Cloud - US",
+      "domain": "alibabacloud.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 436,
+      "numDistinctUsers": 113,
+      "lastReportedAt": "2026-07-03T01:44:13+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "5.226.140.67": {
+    "ip": "5.226.140.67",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "5.226.140.67",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "GB",
+      "usageType": "Fixed Line ISP",
+      "isp": "Infrawatch Limited",
+      "domain": "infrawat.ch",
+      "hostnames": [
+        "5-226-140-67.infrawat.ch"
+      ],
+      "isTor": false,
+      "totalReports": 863,
+      "numDistinctUsers": 130,
+      "lastReportedAt": "2026-07-03T04:04:31+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "5.61.209.92": {
+    "ip": "5.61.209.92",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "5.61.209.92",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "NL",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Amarutu Technology Ltd",
+      "domain": "koddos.net",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 5453,
+      "numDistinctUsers": 323,
+      "lastReportedAt": "2026-07-03T04:05:01+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "50.6.248.168": {
+    "ip": "50.6.248.168",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "50.6.248.168",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Newfold Digital, Inc.",
+      "domain": "enduranceinternational.com",
+      "hostnames": [
+        "server.chwebsite.org"
+      ],
+      "isTor": false,
+      "totalReports": 3450,
+      "numDistinctUsers": 1025,
+      "lastReportedAt": "2026-07-03T03:24:50+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "51.178.114.78": {
+    "ip": "51.178.114.78",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "51.178.114.78",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "FR",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "OVH SAS",
+      "domain": "ovh.net",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 5380,
+      "numDistinctUsers": 1184,
+      "lastReportedAt": "2026-07-03T03:12:41+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "52.161.46.112": {
+    "ip": "52.161.46.112",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "52.161.46.112",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Microsoft Corporation",
+      "domain": "microsoft.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 35,
+      "numDistinctUsers": 22,
+      "lastReportedAt": "2026-07-02T23:16:56+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "59.24.133.197": {
+    "ip": "59.24.133.197",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "59.24.133.197",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "KR",
+      "usageType": "Fixed Line ISP",
+      "isp": "Korea Telecom",
+      "domain": "kt.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 21918,
+      "numDistinctUsers": 203,
+      "lastReportedAt": "2026-07-03T03:58:18+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "59.37.13.66": {
+    "ip": "59.37.13.66",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "59.37.13.66",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Fixed Line ISP",
+      "isp": "zhongguodianxin",
+      "domain": "gddc.com.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 2026,
+      "numDistinctUsers": 232,
+      "lastReportedAt": "2026-07-03T01:00:15+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "59.46.193.187": {
+    "ip": "59.46.193.187",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "59.46.193.187",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CN",
+      "usageType": "Commercial",
+      "isp": "DaLianNuoMeiYeYaJianYouXianGongSi-DL-LN",
+      "domain": "chinatelecom.cn",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1082,
+      "numDistinctUsers": 163,
+      "lastReportedAt": "2026-07-03T03:53:01+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "60.53.155.135": {
+    "ip": "60.53.155.135",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "60.53.155.135",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "MY",
+      "usageType": "Mobile ISP",
+      "isp": "TMNST",
+      "domain": "tm.com.my",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 80,
+      "numDistinctUsers": 62,
+      "lastReportedAt": "2026-07-03T04:04:10+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "64.89.163.245": {
+    "ip": "64.89.163.245",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "64.89.163.245",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "DE",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Meowcore Softworks LLC",
+      "domain": "geofeed.space",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1596,
+      "numDistinctUsers": 156,
+      "lastReportedAt": "2026-07-03T04:04:06+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "66.116.196.243": {
+    "ip": "66.116.196.243",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "66.116.196.243",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "IN",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "P.D.R Solutions FZC",
+      "domain": "publicdomainregistry.com",
+      "hostnames": [
+        "server.eyerexus.com"
+      ],
+      "isTor": false,
+      "totalReports": 344,
+      "numDistinctUsers": 241,
+      "lastReportedAt": "2026-07-03T03:28:24+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "66.132.195.94": {
+    "ip": "66.132.195.94",
+    "vt": {
+      "as_owner": "Censys, Inc.",
+      "asn": 398324,
+      "country": "US",
+      "detected_referrer_samples": [],
+      "detected_urls": [
+        {
+          "positives": 9,
+          "scan_date": "2026-07-01 22:03:59",
+          "total": 92,
+          "url": "http://66.132.195.94/"
+        },
+        {
+          "positives": 13,
+          "scan_date": "2026-06-18 04:07:11",
+          "total": 92,
+          "url": "https://66.132.195.94/"
+        }
+      ],
+      "resolutions": [
+        {
+          "hostname": "94.195.132.66.censys-scanner.com",
+          "last_resolved": "2026-03-25 14:49:15"
+        }
+      ],
+      "response_code": 1,
+      "undetected_referrer_samples": [
+        {
+          "date": "2026-05-28 02:56:53",
+          "positives": 0,
+          "sha256": "1a5d184cf44282400d4754197c6fd0802a27dc89ff4d034d34041416c8c72799",
+          "total": 76
+        },
+        {
+          "date": "2026-05-28 02:53:39",
+          "positives": 0,
+          "sha256": "032e5846ae411a212869cc25e3e41b0df6d0024f77737fbf32acf0ef4e5effd2",
+          "total": 76
+        },
+        {
+          "date": "2026-04-10 14:16:14",
+          "positives": 0,
+          "sha256": "1cbbb760db1efd3205077f943ebf9844ca547b25e8f0b7076bd6b0f29adeb212",
+          "total": 77
+        }
+      ],
+      "undetected_urls": [],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "66.132.195.94",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Commercial",
+      "isp": "Censys, Inc.",
+      "domain": "censys.io",
+      "hostnames": [
+        "94.195.132.66.censys-scanner.com"
+      ],
+      "isTor": false,
+      "totalReports": 2094,
+      "numDistinctUsers": 444,
+      "lastReportedAt": "2026-07-03T03:48:03+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "66.155.223.226": {
+    "ip": "66.155.223.226",
+    "vt": {
+      "as_owner": "Windstream Communications LLC",
+      "asn": 7029,
+      "country": "US",
+      "detected_downloaded_samples": [],
+      "detected_referrer_samples": [
+        {
+          "date": "2025-12-17 18:56:32",
+          "positives": 38,
+          "sha256": "a8cfa632d2121533077461505b1906a9d2ee88351321f9fffe110b75f8d6c3eb",
+          "total": 76
+        }
+      ],
+      "detected_urls": [
+        {
+          "positives": 5,
+          "scan_date": "2026-06-07 02:11:01",
+          "total": 91,
+          "url": "http://66.155.223.226/"
+        },
+        {
+          "positives": 4,
+          "scan_date": "2026-05-29 04:21:38",
+          "total": 92,
+          "url": "https://66.155.223.226/"
+        }
+      ],
+      "resolutions": [
+        {
+          "hostname": "device-b5b96fab-c452-4276-a93e-8894857d1c5e.remotewd.com",
+          "last_resolved": "2024-05-30 22:33:16"
+        },
+        {
+          "hostname": "device-f76ce857-4201-48cb-b350-aa768c56d0cb.remotewd.com",
+          "last_resolved": "2020-05-01 21:18:11"
+        },
+        {
+          "hostname": "dm0169.myfoscam.org",
+          "last_resolved": "2017-10-08 00:00:00"
+        },
+        {
+          "hostname": "ibcridgecrest.remotewebaccess.com",
+          "last_resolved": "2019-09-30 15:22:30"
+        },
+        {
+          "hostname": "imcridgecrest.remotewebaccess.com",
+          "last_resolved": "2018-07-29 19:00:22"
+        }
+      ],
+      "response_code": 1,
+      "undetected_downloaded_samples": [
+        {
+          "date": "2020-01-01 05:51:09",
+          "positives": 0,
+          "sha256": "97064647d71c4c2c0c69a86a8cc64353f4bcf8b510774935cf9fed2637a29864",
+          "total": 74
+        }
+      ],
+      "undetected_referrer_samples": [],
+      "undetected_urls": [],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "66.155.223.226",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Fixed Line ISP",
+      "isp": "Windstream Communications LLC",
+      "domain": "windstream.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 69,
+      "numDistinctUsers": 36,
+      "lastReportedAt": "2026-07-02T23:17:01+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "73.88.196.91": {
+    "ip": "73.88.196.91",
+    "vt": {
+      "as_owner": "Comcast Cable Communications, LLC",
+      "asn": 7922,
+      "country": "US",
+      "detected_referrer_samples": [],
+      "detected_urls": [
+        {
+          "positives": 10,
+          "scan_date": "2026-06-21 22:25:37",
+          "total": 92,
+          "url": "https://73.88.196.91/"
+        },
+        {
+          "positives": 9,
+          "scan_date": "2026-06-21 17:37:44",
+          "total": 92,
+          "url": "http://73.88.196.91/"
+        }
+      ],
+      "resolutions": [
+        {
+          "hostname": "c-73-88-196-91.hsd1.ky.comcast.net",
+          "last_resolved": "2024-07-03 08:45:25"
+        }
+      ],
+      "response_code": 1,
+      "undetected_referrer_samples": [
+        {
+          "date": "2024-09-14 09:11:05",
+          "positives": 0,
+          "sha256": "40426c0c3cafb089a2d947e67d2ff85c3b64b30c25ab7f542d067b83cfd2168c",
+          "total": 76
+        },
+        {
+          "date": "2024-09-14 07:32:30",
+          "positives": 0,
+          "sha256": "6f950a3feff480fb4f27e3c25e6eff4d820e4d3e10736555329a0d027e7162a5",
+          "total": 77
+        }
+      ],
+      "undetected_urls": [],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "73.88.196.91",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "US",
+      "usageType": "Fixed Line ISP",
+      "isp": "Comcast IP Services, L.L.C.",
+      "domain": "comcast.net",
+      "hostnames": [
+        "c-73-88-196-91.hsd1.ky.comcast.net"
+      ],
+      "isTor": false,
+      "totalReports": 363,
+      "numDistinctUsers": 88,
+      "lastReportedAt": "2026-07-03T01:00:13+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "78.39.48.166": {
+    "ip": "78.39.48.166",
+    "vt": {
+      "as_owner": "Respina Networks & Beyond PJSC",
+      "asn": 42337,
+      "country": "IR",
+      "detected_referrer_samples": [],
+      "detected_urls": [
+        {
+          "positives": 12,
+          "scan_date": "2026-07-02 18:45:41",
+          "total": 92,
+          "url": "https://78.39.48.166/"
+        },
+        {
+          "positives": 10,
+          "scan_date": "2026-06-21 23:39:06",
+          "total": 92,
+          "url": "http://78.39.48.166/"
+        }
+      ],
+      "resolutions": [],
+      "response_code": 1,
+      "undetected_referrer_samples": [
+        {
+          "date": "2025-11-22 11:04:15",
+          "positives": 0,
+          "sha256": "14174a7456b97783693c6bb417137c503a2ec9f01872e44e9c3631e1516bda1c",
+          "total": 77
+        }
+      ],
+      "undetected_urls": [],
+      "verbose_msg": "IP address in dataset"
+    },
+    "abuse": {
+      "ipAddress": "78.39.48.166",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "IR",
+      "usageType": "Fixed Line ISP",
+      "isp": "Iran Information Technology Company PJSC",
+      "domain": "co.com",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 1969,
+      "numDistinctUsers": 724,
+      "lastReportedAt": "2026-07-03T03:40:47+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "85.217.149.42": {
+    "ip": "85.217.149.42",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "85.217.149.42",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CA",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "NL MODAT",
+      "domain": "modat.io",
+      "hostnames": [
+        "o042.scanner.modat.io"
+      ],
+      "isTor": false,
+      "totalReports": 4174,
+      "numDistinctUsers": 203,
+      "lastReportedAt": "2026-07-03T03:05:27+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "85.217.149.58": {
+    "ip": "85.217.149.58",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "85.217.149.58",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "CA",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "NL MODAT",
+      "domain": "modat.io",
+      "hostnames": [
+        "o058.scanner.modat.io"
+      ],
+      "isTor": false,
+      "totalReports": 5061,
+      "numDistinctUsers": 199,
+      "lastReportedAt": "2026-07-03T04:04:03+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "85.90.246.159": {
+    "ip": "85.90.246.159",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "85.90.246.159",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "DE",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "Linode, LLC",
+      "domain": "linode.com",
+      "hostnames": [
+        "85-90-246-159.ip.linodeusercontent.com"
+      ],
+      "isTor": false,
+      "totalReports": 1347,
+      "numDistinctUsers": 223,
+      "lastReportedAt": "2026-07-03T04:00:21+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "87.106.65.126": {
+    "ip": "87.106.65.126",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "87.106.65.126",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "GB",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "IONOS SE",
+      "domain": "ionos.com",
+      "hostnames": [
+        "ip87-106-65-126.pbiaas.com"
+      ],
+      "isTor": false,
+      "totalReports": 4957,
+      "numDistinctUsers": 1165,
+      "lastReportedAt": "2026-07-03T04:00:25+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "91.231.89.75": {
+    "ip": "91.231.89.75",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "91.231.89.75",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "FR",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "FR ONYPHE",
+      "domain": "onyphe.io",
+      "hostnames": [
+        "dunlap.probe.onyphe.net"
+      ],
+      "isTor": false,
+      "totalReports": 3734,
+      "numDistinctUsers": 134,
+      "lastReportedAt": "2026-07-03T03:04:38+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "91.231.89.86": {
+    "ip": "91.231.89.86",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "91.231.89.86",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "FR",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "FR ONYPHE",
+      "domain": "onyphe.io",
+      "hostnames": [
+        "lake.probe.onyphe.net"
+      ],
+      "isTor": false,
+      "totalReports": 1637,
+      "numDistinctUsers": 128,
+      "lastReportedAt": "2026-07-03T01:52:35+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "91.92.40.13": {
+    "ip": "91.92.40.13",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "91.92.40.13",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "NL",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "TechTies Inc.",
+      "domain": "tech-ties.net",
+      "hostnames": [],
+      "isTor": false,
+      "totalReports": 8234,
+      "numDistinctUsers": 1242,
+      "lastReportedAt": "2026-07-03T04:06:02+00:00"
+    },
+    "gn": null,
+    "av": null
+  },
+  "94.231.206.248": {
+    "ip": "94.231.206.248",
+    "vt": null,
+    "abuse": {
+      "ipAddress": "94.231.206.248",
+      "isPublic": true,
+      "ipVersion": 4,
+      "isWhitelisted": false,
+      "abuseConfidenceScore": 100,
+      "countryCode": "SG",
+      "usageType": "Data Center/Web Hosting/Transit",
+      "isp": "FR ONYPHE",
+      "domain": "onyphe.io",
+      "hostnames": [
+        "elin.probe.onyphe.net"
+      ],
+      "isTor": false,
+      "totalReports": 1519,
+      "numDistinctUsers": 122,
+      "lastReportedAt": "2026-07-03T03:04:44+00:00"
+    },
+    "gn": null,
+    "av": null
+  }
+}
